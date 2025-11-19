@@ -1,0 +1,87 @@
+{
+  "meta": {
+    "generatedAt": "2025-11-19T15:16:19.005Z",
+    "version": "0.1.0",
+    "files": [
+      "Text"
+    ],
+    "scope": "current-page",
+    "fileName": "Web :: Core",
+    "library": "Web :: Core"
+  },
+  "components": [
+    {
+      "key": "418cef72a4f4b0e21dce94c09cf0081a1521ba07",
+      "name": "Text",
+      "page": "Text",
+      "category": "Text",
+      "description": "",
+      "variants": [
+        {
+          "id": "28:29546",
+          "key": "418cef72a4f4b0e21dce94c09cf0081a1521ba07",
+          "name": "Text"
+        }
+      ],
+      "defaultVariant": "418cef72a4f4b0e21dce94c09cf0081a1521ba07",
+      "structure": [
+        {
+          "id": 1,
+          "parentId": null,
+          "path": "Text",
+          "type": "COMPONENT",
+          "name": "Text",
+          "visible": true,
+          "layout": {
+            "itemSpacing": 0
+          },
+          "opacity": 1,
+          "radius": 0
+        },
+        {
+          "id": 2,
+          "parentId": 1,
+          "path": "Text / Content",
+          "type": "FRAME",
+          "name": "Content",
+          "visible": true,
+          "layout": {
+            "itemSpacing": 10
+          },
+          "opacity": 1,
+          "radius": 0
+        },
+        {
+          "id": 3,
+          "parentId": 2,
+          "path": "Text / Content / Text",
+          "type": "TEXT",
+          "name": "Text",
+          "visible": true,
+          "styles": {
+            "text": {
+              "styleKey": "S:f0f0d59f9f92db92901605dd929cfa3b93540058,2768:1"
+            }
+          },
+          "opacity": 1,
+          "text": {
+            "lineHeight": 24,
+            "letterSpacing": 0,
+            "paragraphSpacing": 0
+          }
+        }
+      ],
+      "variantStructures": {
+        "418cef72a4f4b0e21dce94c09cf0081a1521ba07": []
+      },
+      "parentComponent": null,
+      "role": "main",
+      "status": "active",
+      "platform": "universal"
+    }
+  ],
+  "tokens": [],
+  "typography": [],
+  "spacing": [],
+  "radius": []
+}

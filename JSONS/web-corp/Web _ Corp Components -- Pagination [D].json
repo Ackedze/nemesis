@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2025-11-20T06:13:26.590Z",
+    "generatedAt": "2025-11-20T21:06:03.930Z",
     "version": "0.1.0",
     "files": [
       "Pagination [D]"
@@ -954,6 +954,7 @@
         "fb1777593ecc73fbe862744b49bd267e480cdf8c": []
       },
       "parentComponent": null,
+      "parentComponents": [],
       "role": "main",
       "status": "deprecated",
       "platform": "desktop"
@@ -3942,6 +3943,7 @@
         ]
       },
       "parentComponent": null,
+      "parentComponents": [],
       "role": "main",
       "status": "active",
       "platform": "desktop"
@@ -5137,9 +5139,25 @@
         ]
       },
       "parentComponent": {
-        "key": "67e3499a78f510280bc46d02642bbd022ec838cc",
-        "name": "❌ Component / Table Body"
+        "key": "40f157d2b473c9c3d9155ba500d884d395c00e84",
+        "name": "[D] StickyPagination",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "fb1777593ecc73fbe862744b49bd267e480cdf8c",
+          "name": "❌ [D] Pagination",
+          "role": "main",
+          "status": "deprecated"
+        },
+        {
+          "key": "40f157d2b473c9c3d9155ba500d884d395c00e84",
+          "name": "[D] StickyPagination",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "desktop"
@@ -6323,8 +6341,18 @@
       },
       "parentComponent": {
         "key": "40f157d2b473c9c3d9155ba500d884d395c00e84",
-        "name": "[D] StickyPagination"
+        "name": "[D] StickyPagination",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "40f157d2b473c9c3d9155ba500d884d395c00e84",
+          "name": "[D] StickyPagination",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "desktop"
@@ -6566,9 +6594,25 @@
         "f6002338c57f1799e3b2ff5c04f0912e17168a99": []
       },
       "parentComponent": {
-        "key": "e0d2d05fe2ee94fb425e0f4164630089678d9c8c",
-        "name": "AmountOptionList"
+        "key": "40f157d2b473c9c3d9155ba500d884d395c00e84",
+        "name": "[D] StickyPagination",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "e0d2d05fe2ee94fb425e0f4164630089678d9c8c",
+          "name": "AmountOptionList",
+          "role": "part",
+          "status": "active"
+        },
+        {
+          "key": "40f157d2b473c9c3d9155ba500d884d395c00e84",
+          "name": "[D] StickyPagination",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "desktop"
@@ -6731,8 +6775,18 @@
       },
       "parentComponent": {
         "key": "40f157d2b473c9c3d9155ba500d884d395c00e84",
-        "name": "[D] StickyPagination"
+        "name": "[D] StickyPagination",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "40f157d2b473c9c3d9155ba500d884d395c00e84",
+          "name": "[D] StickyPagination",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "desktop"
@@ -8547,8 +8601,18 @@
       },
       "parentComponent": {
         "key": "40f157d2b473c9c3d9155ba500d884d395c00e84",
-        "name": "[D] StickyPagination"
+        "name": "[D] StickyPagination",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "40f157d2b473c9c3d9155ba500d884d395c00e84",
+          "name": "[D] StickyPagination",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "desktop"
@@ -9550,8 +9614,18 @@
       },
       "parentComponent": {
         "key": "40f157d2b473c9c3d9155ba500d884d395c00e84",
-        "name": "[D] StickyPagination"
+        "name": "[D] StickyPagination",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "40f157d2b473c9c3d9155ba500d884d395c00e84",
+          "name": "[D] StickyPagination",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "desktop"
@@ -11156,9 +11230,25 @@
         ]
       },
       "parentComponent": {
-        "key": "67e3499a78f510280bc46d02642bbd022ec838cc",
-        "name": "❌ Component / Table Body"
+        "key": "40f157d2b473c9c3d9155ba500d884d395c00e84",
+        "name": "[D] StickyPagination",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "fb1777593ecc73fbe862744b49bd267e480cdf8c",
+          "name": "❌ [D] Pagination",
+          "role": "main",
+          "status": "deprecated"
+        },
+        {
+          "key": "40f157d2b473c9c3d9155ba500d884d395c00e84",
+          "name": "[D] StickyPagination",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "desktop"

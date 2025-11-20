@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2025-11-19T15:01:52.485Z",
+    "generatedAt": "2025-11-20T21:21:39.234Z",
     "version": "0.1.0",
     "files": [
       "IconButton"
@@ -686,6 +686,7 @@
         ]
       },
       "parentComponent": null,
+      "parentComponents": [],
       "role": "main",
       "status": "active",
       "platform": "mobile-web"
@@ -1366,6 +1367,7 @@
         ]
       },
       "parentComponent": null,
+      "parentComponents": [],
       "role": "main",
       "status": "active",
       "platform": "desktop"
@@ -2046,6 +2048,7 @@
         ]
       },
       "parentComponent": null,
+      "parentComponents": [],
       "role": "main",
       "status": "active",
       "platform": "mobile-web"
@@ -2726,6 +2729,7 @@
         ]
       },
       "parentComponent": null,
+      "parentComponents": [],
       "role": "main",
       "status": "active",
       "platform": "desktop"
@@ -3080,8 +3084,60 @@
       },
       "parentComponent": {
         "key": "f29b987cb66d561cae02beb89afe0672a2d6624f",
-        "name": "[M][Corporate] IconButton_Inverted"
+        "name": "[M][Corporate] IconButton_Inverted",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "f29b987cb66d561cae02beb89afe0672a2d6624f",
+          "name": "[M][Corporate] IconButton_Inverted",
+          "role": "main",
+          "status": "active"
+        },
+        {
+          "key": "b97e2765a607fc8b9c7b4fc3721af0a1a7aaf47c",
+          "name": "[D][Corporate] IconButton_Inverted",
+          "role": "main",
+          "status": "active"
+        },
+        {
+          "key": "ec7975a136cb26c96cb48967c8a1361748f8d519",
+          "name": "[M][Corporate] IconButton",
+          "role": "main",
+          "status": "active"
+        },
+        {
+          "key": "4c565408b3fa8425b321b6258e229120124b2734",
+          "name": "[D][Corporate] IconButton",
+          "role": "main",
+          "status": "active"
+        },
+        {
+          "key": "2b500fc0bc77c09b69ef18c58360ab68e4e4a59e",
+          "name": "[M] IconButton_Inverted",
+          "role": "main",
+          "status": "active"
+        },
+        {
+          "key": "b59ba5bac0783413f28fec8ca8888520fa66df6a",
+          "name": "[D] IconButton_Inverted",
+          "role": "main",
+          "status": "active"
+        },
+        {
+          "key": "dcb21d955300bfad6b7a4ea275cdd08fe121825e",
+          "name": "[M] IconButton",
+          "role": "main",
+          "status": "active"
+        },
+        {
+          "key": "28e69a0b209fb9f1346327ea411878405efdb226",
+          "name": "[D] IconButton",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "universal"
@@ -3762,6 +3818,7 @@
         ]
       },
       "parentComponent": null,
+      "parentComponents": [],
       "role": "main",
       "status": "active",
       "platform": "mobile-web"
@@ -4442,6 +4499,7 @@
         ]
       },
       "parentComponent": null,
+      "parentComponents": [],
       "role": "main",
       "status": "active",
       "platform": "desktop"
@@ -5122,6 +5180,7 @@
         ]
       },
       "parentComponent": null,
+      "parentComponents": [],
       "role": "main",
       "status": "active",
       "platform": "mobile-web"
@@ -5802,6 +5861,7 @@
         ]
       },
       "parentComponent": null,
+      "parentComponents": [],
       "role": "main",
       "status": "active",
       "platform": "desktop"

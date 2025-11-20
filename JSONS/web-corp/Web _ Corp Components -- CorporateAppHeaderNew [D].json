@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2025-11-20T06:08:27.327Z",
+    "generatedAt": "2025-11-20T18:09:18.628Z",
     "version": "0.1.0",
     "files": [
       "CorporateAppHeaderNew [D]"
@@ -54408,8 +54408,8 @@
         ]
       },
       "parentComponent": {
-        "key": "a82fa5db165e7806275eec26a56def8ed5fc18d0",
-        "name": "_[D](768) HeaderMenuFull"
+        "key": "18afe356fff5b5b7dee60e2d65c83ff7c0d4abb3",
+        "name": "[D](768) HeaderMenu"
       },
       "role": "part",
       "status": "active",
@@ -56602,8 +56602,8 @@
         "736d5c09f32580de3fc307e44eea2f3fadf77077": []
       },
       "parentComponent": {
-        "key": "a82fa5db165e7806275eec26a56def8ed5fc18d0",
-        "name": "_[D](768) HeaderMenuFull"
+        "key": "27c24282eb79826111a7f3781cb587d579a218c6",
+        "name": "[D](768) HeaderMenu"
       },
       "role": "part",
       "status": "active",
@@ -56658,8 +56658,8 @@
         "0418a5dd22fe8508554531c5fae562727f6649c8": []
       },
       "parentComponent": {
-        "key": "a82fa5db165e7806275eec26a56def8ed5fc18d0",
-        "name": "_[D](768) HeaderMenuFull"
+        "key": "27c24282eb79826111a7f3781cb587d579a218c6",
+        "name": "[D](768) HeaderMenu"
       },
       "role": "part",
       "status": "scheduled",
@@ -57981,8 +57981,8 @@
         ]
       },
       "parentComponent": {
-        "key": "8cec39487a53a88f31facf7c235654655e65dca2",
-        "name": "_[D] SideMenuFull"
+        "key": "18afe356fff5b5b7dee60e2d65c83ff7c0d4abb3",
+        "name": "[D](768) HeaderMenu"
       },
       "role": "part",
       "status": "active",
@@ -58316,10 +58316,7 @@
           }
         ]
       },
-      "parentComponent": {
-        "key": "8cec39487a53a88f31facf7c235654655e65dca2",
-        "name": "_[D] SideMenuFull"
-      },
+      "parentComponent": null,
       "role": "part",
       "status": "active",
       "platform": "desktop"
@@ -58364,8 +58361,8 @@
         "6cd56446859c4e9f07e5d949e3f5d83095463466": []
       },
       "parentComponent": {
-        "key": "8cec39487a53a88f31facf7c235654655e65dca2",
-        "name": "_[D] SideMenuFull"
+        "key": "1fc97edb44d3ae3ea303925059535476ff5f4ff5",
+        "name": "[D] SideMenu"
       },
       "role": "part",
       "status": "active",
@@ -60297,8 +60294,8 @@
         ]
       },
       "parentComponent": {
-        "key": "8cec39487a53a88f31facf7c235654655e65dca2",
-        "name": "_[D] SideMenuFull"
+        "key": "1fc97edb44d3ae3ea303925059535476ff5f4ff5",
+        "name": "[D] SideMenu"
       },
       "role": "part",
       "status": "active",
@@ -60642,8 +60639,8 @@
         ]
       },
       "parentComponent": {
-        "key": "8cec39487a53a88f31facf7c235654655e65dca2",
-        "name": "_[D] SideMenuFull"
+        "key": "18afe356fff5b5b7dee60e2d65c83ff7c0d4abb3",
+        "name": "[D](768) HeaderMenu"
       },
       "role": "part",
       "status": "active",
@@ -60805,8 +60802,8 @@
         ]
       },
       "parentComponent": {
-        "key": "8cec39487a53a88f31facf7c235654655e65dca2",
-        "name": "_[D] SideMenuFull"
+        "key": "18afe356fff5b5b7dee60e2d65c83ff7c0d4abb3",
+        "name": "[D](768) HeaderMenu"
       },
       "role": "part",
       "status": "active",
@@ -61586,8 +61583,8 @@
         ]
       },
       "parentComponent": {
-        "key": "8cec39487a53a88f31facf7c235654655e65dca2",
-        "name": "_[D] SideMenuFull"
+        "key": "18afe356fff5b5b7dee60e2d65c83ff7c0d4abb3",
+        "name": "[D](768) HeaderMenu"
       },
       "role": "part",
       "status": "active",
@@ -62963,8 +62960,8 @@
         ]
       },
       "parentComponent": {
-        "key": "8cec39487a53a88f31facf7c235654655e65dca2",
-        "name": "_[D] SideMenuFull"
+        "key": "18afe356fff5b5b7dee60e2d65c83ff7c0d4abb3",
+        "name": "[D](768) HeaderMenu"
       },
       "role": "part",
       "status": "active",

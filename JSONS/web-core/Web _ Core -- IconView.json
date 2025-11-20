@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2025-11-19T15:15:29.789Z",
+    "generatedAt": "2025-11-20T21:10:47.988Z",
     "version": "0.1.0",
     "files": [
       "IconView"
@@ -9709,6 +9709,7 @@
         ]
       },
       "parentComponent": null,
+      "parentComponents": [],
       "role": "main",
       "status": "active",
       "platform": "universal"
@@ -11089,9 +11090,19 @@
         ]
       },
       "parentComponent": {
-        "key": "aacaefcbd8c36b5985609691edecccf170067aa6",
-        "name": "[D][Corporate] Input"
+        "key": "f188fb1de981b2f32966f4844a4b10cffdb81c35",
+        "name": "IconView",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "f188fb1de981b2f32966f4844a4b10cffdb81c35",
+          "name": "IconView",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "universal"
@@ -11158,8 +11169,18 @@
       },
       "parentComponent": {
         "key": "f188fb1de981b2f32966f4844a4b10cffdb81c35",
-        "name": "IconView"
+        "name": "IconView",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "f188fb1de981b2f32966f4844a4b10cffdb81c35",
+          "name": "IconView",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "universal"
@@ -11240,8 +11261,18 @@
       },
       "parentComponent": {
         "key": "f188fb1de981b2f32966f4844a4b10cffdb81c35",
-        "name": "IconView"
+        "name": "IconView",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "f188fb1de981b2f32966f4844a4b10cffdb81c35",
+          "name": "IconView",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "universal"
@@ -11308,8 +11339,18 @@
       },
       "parentComponent": {
         "key": "f188fb1de981b2f32966f4844a4b10cffdb81c35",
-        "name": "IconView"
+        "name": "IconView",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "f188fb1de981b2f32966f4844a4b10cffdb81c35",
+          "name": "IconView",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "universal"
@@ -11390,8 +11431,18 @@
       },
       "parentComponent": {
         "key": "f188fb1de981b2f32966f4844a4b10cffdb81c35",
-        "name": "IconView"
+        "name": "IconView",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "f188fb1de981b2f32966f4844a4b10cffdb81c35",
+          "name": "IconView",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "universal"
@@ -11472,8 +11523,18 @@
       },
       "parentComponent": {
         "key": "f188fb1de981b2f32966f4844a4b10cffdb81c35",
-        "name": "IconView"
+        "name": "IconView",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "f188fb1de981b2f32966f4844a4b10cffdb81c35",
+          "name": "IconView",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "universal"
@@ -11554,8 +11615,18 @@
       },
       "parentComponent": {
         "key": "f188fb1de981b2f32966f4844a4b10cffdb81c35",
-        "name": "IconView"
+        "name": "IconView",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "f188fb1de981b2f32966f4844a4b10cffdb81c35",
+          "name": "IconView",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "universal"
@@ -11629,8 +11700,18 @@
       },
       "parentComponent": {
         "key": "f188fb1de981b2f32966f4844a4b10cffdb81c35",
-        "name": "IconView"
+        "name": "IconView",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "f188fb1de981b2f32966f4844a4b10cffdb81c35",
+          "name": "IconView",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "universal"
@@ -11704,8 +11785,18 @@
       },
       "parentComponent": {
         "key": "f188fb1de981b2f32966f4844a4b10cffdb81c35",
-        "name": "IconView"
+        "name": "IconView",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "f188fb1de981b2f32966f4844a4b10cffdb81c35",
+          "name": "IconView",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "universal"
@@ -11779,8 +11870,18 @@
       },
       "parentComponent": {
         "key": "f188fb1de981b2f32966f4844a4b10cffdb81c35",
-        "name": "IconView"
+        "name": "IconView",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "f188fb1de981b2f32966f4844a4b10cffdb81c35",
+          "name": "IconView",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "universal"
@@ -11854,8 +11955,18 @@
       },
       "parentComponent": {
         "key": "f188fb1de981b2f32966f4844a4b10cffdb81c35",
-        "name": "IconView"
+        "name": "IconView",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "f188fb1de981b2f32966f4844a4b10cffdb81c35",
+          "name": "IconView",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "universal"
@@ -11942,8 +12053,18 @@
       },
       "parentComponent": {
         "key": "f188fb1de981b2f32966f4844a4b10cffdb81c35",
-        "name": "IconView"
+        "name": "IconView",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "f188fb1de981b2f32966f4844a4b10cffdb81c35",
+          "name": "IconView",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "universal"
@@ -12030,8 +12151,18 @@
       },
       "parentComponent": {
         "key": "f188fb1de981b2f32966f4844a4b10cffdb81c35",
-        "name": "IconView"
+        "name": "IconView",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "f188fb1de981b2f32966f4844a4b10cffdb81c35",
+          "name": "IconView",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "universal"
@@ -12105,8 +12236,18 @@
       },
       "parentComponent": {
         "key": "f188fb1de981b2f32966f4844a4b10cffdb81c35",
-        "name": "IconView"
+        "name": "IconView",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "f188fb1de981b2f32966f4844a4b10cffdb81c35",
+          "name": "IconView",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "universal"
@@ -12180,8 +12321,18 @@
       },
       "parentComponent": {
         "key": "f188fb1de981b2f32966f4844a4b10cffdb81c35",
-        "name": "IconView"
+        "name": "IconView",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "f188fb1de981b2f32966f4844a4b10cffdb81c35",
+          "name": "IconView",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "universal"
@@ -12255,8 +12406,18 @@
       },
       "parentComponent": {
         "key": "f188fb1de981b2f32966f4844a4b10cffdb81c35",
-        "name": "IconView"
+        "name": "IconView",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "f188fb1de981b2f32966f4844a4b10cffdb81c35",
+          "name": "IconView",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "universal"
@@ -12330,8 +12491,18 @@
       },
       "parentComponent": {
         "key": "f188fb1de981b2f32966f4844a4b10cffdb81c35",
-        "name": "IconView"
+        "name": "IconView",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "f188fb1de981b2f32966f4844a4b10cffdb81c35",
+          "name": "IconView",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "universal"
@@ -12404,6 +12575,7 @@
         ]
       },
       "parentComponent": null,
+      "parentComponents": [],
       "role": "part",
       "status": "active",
       "platform": "universal"
@@ -12477,8 +12649,18 @@
       },
       "parentComponent": {
         "key": "f188fb1de981b2f32966f4844a4b10cffdb81c35",
-        "name": "IconView"
+        "name": "IconView",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "f188fb1de981b2f32966f4844a4b10cffdb81c35",
+          "name": "IconView",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "universal"
@@ -12552,8 +12734,18 @@
       },
       "parentComponent": {
         "key": "f188fb1de981b2f32966f4844a4b10cffdb81c35",
-        "name": "IconView"
+        "name": "IconView",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "f188fb1de981b2f32966f4844a4b10cffdb81c35",
+          "name": "IconView",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "universal"
@@ -12627,8 +12819,18 @@
       },
       "parentComponent": {
         "key": "f188fb1de981b2f32966f4844a4b10cffdb81c35",
-        "name": "IconView"
+        "name": "IconView",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "f188fb1de981b2f32966f4844a4b10cffdb81c35",
+          "name": "IconView",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "universal"
@@ -12702,8 +12904,18 @@
       },
       "parentComponent": {
         "key": "f188fb1de981b2f32966f4844a4b10cffdb81c35",
-        "name": "IconView"
+        "name": "IconView",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "f188fb1de981b2f32966f4844a4b10cffdb81c35",
+          "name": "IconView",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "universal"
@@ -12777,8 +12989,18 @@
       },
       "parentComponent": {
         "key": "f188fb1de981b2f32966f4844a4b10cffdb81c35",
-        "name": "IconView"
+        "name": "IconView",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "f188fb1de981b2f32966f4844a4b10cffdb81c35",
+          "name": "IconView",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "universal"

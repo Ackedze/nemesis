@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2025-11-19T15:16:24.999Z",
+    "generatedAt": "2025-11-20T21:41:58.412Z",
     "version": "0.1.0",
     "files": [
       "Amount"
@@ -187,6 +187,7 @@
         "fe3399f71c9e0971646821d935b64657e462c28e": []
       },
       "parentComponent": null,
+      "parentComponents": [],
       "role": "main",
       "status": "active",
       "platform": "universal"
@@ -240,9 +241,19 @@
         "b95166da66ad15ecad14244d670ab1b66db66f80": []
       },
       "parentComponent": {
-        "key": "fd7939020cc3d9b1565c14c12dbd18ed94174450",
-        "name": "[D][Corporate] AmountInput_Inverted"
+        "key": "fe3399f71c9e0971646821d935b64657e462c28e",
+        "name": "Amount",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "fe3399f71c9e0971646821d935b64657e462c28e",
+          "name": "Amount",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "universal"
@@ -541,9 +552,19 @@
         ]
       },
       "parentComponent": {
-        "key": "fd7939020cc3d9b1565c14c12dbd18ed94174450",
-        "name": "[D][Corporate] AmountInput_Inverted"
+        "key": "fe3399f71c9e0971646821d935b64657e462c28e",
+        "name": "Amount",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "fe3399f71c9e0971646821d935b64657e462c28e",
+          "name": "Amount",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "universal"
@@ -610,9 +631,19 @@
         ]
       },
       "parentComponent": {
-        "key": "fd7939020cc3d9b1565c14c12dbd18ed94174450",
-        "name": "[D][Corporate] AmountInput_Inverted"
+        "key": "fe3399f71c9e0971646821d935b64657e462c28e",
+        "name": "Amount",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "fe3399f71c9e0971646821d935b64657e462c28e",
+          "name": "Amount",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "universal"
@@ -664,9 +695,19 @@
         "a833c02e4fcb75fea1a89bf786912e108b8f93ba": []
       },
       "parentComponent": {
-        "key": "fd7939020cc3d9b1565c14c12dbd18ed94174450",
-        "name": "[D][Corporate] AmountInput_Inverted"
+        "key": "fe3399f71c9e0971646821d935b64657e462c28e",
+        "name": "Amount",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "fe3399f71c9e0971646821d935b64657e462c28e",
+          "name": "Amount",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "universal"

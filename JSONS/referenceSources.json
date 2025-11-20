@@ -260,6 +260,180 @@
     {
       "fileName": "web-corp-promo/Web _ Сorp Promo Components -- PromoTableView.json",
       "path": "web-corp-promo/Web _ Сorp Promo Components -- PromoTableView.json"
+    },
+    
+    //
+    {
+      "fileName": "web-corp/Web _ Corp Components -- AccountSelect.json",
+      "path": "web-corp-promo/Web _ Corp Components -- AccountSelect.json"
+    },
+    {
+      "fileName": "web-corp/Web _ Corp Components -- AmountStyles.json",
+      "path": "web-corp-promo/Web _ Corp Components -- AmountStyles.json"
+    },
+    {
+      "fileName": "web-corp/Web _ Corp Components -- BackgroundPlate.json",
+      "path": "web-corp-promo/Web _ Corp Components -- BackgroundPlate.json"
+    },
+    {
+      "fileName": "web-corp/Web _ Corp Components -- BannerWrapperMobile [M].json",
+      "path": "web-corp-promo/Web _ Corp Components -- BannerWrapperMobile [M].json"
+    },
+    {
+      "fileName": "web-corp/Web _ Corp Components -- BodyHeader.json",
+      "path": "web-corp-promo/Web _ Corp Components -- BodyHeader.json"
+    },
+    {
+      "fileName": "web-corp/Web _ Corp Components -- ButtonGroup [D].json",
+      "path": "web-corp-promo/Web _ Corp Components -- ButtonGroup [D].json"
+    },
+    {
+      "fileName": "web-corp/Web _ Corp Components -- ButtonStack [M].json",
+      "path": "web-corp-promo/Web _ Corp Components -- ButtonStack [M].json"
+    },
+    {
+      "fileName": "web-corp/Web _ Corp Components -- CardImage.json",
+      "path": "web-corp-promo/Web _ Corp Components -- CardImage.json"
+    },
+    {
+      "fileName": "web-corp/Web _ Corp Components -- CardSwiperMobile [M].json",
+      "path": "web-corp-promo/Web _ Corp Components -- CardSwiperMobile [M].json"
+    },
+    {
+      "fileName": "web-corp/Web _ Corp Components -- ContentCardWrapper.json",
+      "path": "web-corp-promo/Web _ Corp Components -- ContentCardWrapper.json"
+    },
+    {
+      "fileName": "web-corp/Web _ Corp Components -- CorporateAppHeaderMobile [M].json",
+      "path": "web-corp-promo/Web _ Corp Components -- CorporateAppHeaderMobile [M].json"
+    },
+    {
+      "fileName": "web-corp/Web _ Corp Components -- CorporateAppHeaderNew [D].json",
+      "path": "web-corp-promo/Web _ Corp Components -- CorporateAppHeaderNew [D].json"
+    },
+    {
+      "fileName": "web-corp/Web _ Corp Components -- CorporatePage.json",
+      "path": "web-corp-promo/Web _ Corp Components -- CorporatePage.json"
+    },
+    {
+      "fileName": "web-corp/Web _ Corp Components -- CorporateSystemMessage.json",
+      "path": "web-corp-promo/Web _ Corp Components -- CorporateSystemMessage.json"
+    },
+    {
+      "fileName": "web-corp/Web _ Corp Components -- CorporateTopbar [D].json",
+      "path": "web-corp-promo/Web _ Corp Components -- CorporateTopbar [D].json"
+    },
+    {
+      "fileName": "web-corp/Web _ Corp Components -- DataRangePicker [D].json",
+      "path": "web-corp-promo/Web _ Corp Components -- DataRangePicker [D].json"
+    },
+    {
+      "fileName": "web-corp/Web _ Corp Components -- FAQ.json",
+      "path": "web-corp-promo/Web _ Corp Components -- FAQ.json"
+    },
+    {
+      "fileName": "web-corp/Web _ Corp Components -- FileUpload.json",
+      "path": "web-corp-promo/Web _ Corp Components -- FileUpload.json"
+    },
+    {
+      "fileName": "web-corp/Web _ Corp Components -- FilterCompanySelect.json",
+      "path": "web-corp-promo/Web _ Corp Components -- FilterCompanySelect.json"
+    },
+    {
+      "fileName": "web-corp/Web _ Corp Components -- FiltersBlock.json",
+      "path": "web-corp-promo/Web _ Corp Components -- FiltersBlock.json"
+    },
+    {
+      "fileName": "web-corp/Web _ Corp Components -- LandingPage.json",
+      "path": "web-corp-promo/Web _ Corp Components -- LandingPage.json"
+    },
+    {
+      "fileName": "web-corp/Web _ Corp Components -- NavigationCardView.json",
+      "path": "web-corp-promo/Web _ Corp Components -- NavigationCardView.json"
+    },
+    {
+      "fileName": "web-corp/Web _ Corp Components -- Neurohelper.json",
+      "path": "web-corp-promo/Web _ Corp Components -- Neurohelper.json"
+    },
+    {
+      "fileName": "web-corp/Web _ Corp Components -- Onboarding Hint [D].json",
+      "path": "web-corp-promo/Web _ Corp Components -- Onboarding Hint [D].json"
+    },
+    {
+      "fileName": "web-corp/Web _ Corp Components -- Onboarding Tooltip [D].json",
+      "path": "web-corp-promo/Web _ Corp Components -- Onboarding Tooltip [D].json"
+    },
+    {
+      "fileName": "web-corp/Web _ Corp Components -- Pagination [D].json",
+      "path": "web-corp-promo/Web _ Corp Components -- Pagination [D].json"
+    },
+    {
+      "fileName": "web-corp/Web _ Corp Components -- PaymentControl [M].json",
+      "path": "web-corp-promo/Web _ Corp Components -- PaymentControl [M].json"
+    },
+    {
+      "fileName": "web-corp/Web _ Corp Components -- PaymentMaskedNumber.json",
+      "path": "web-corp-promo/Web _ Corp Components -- PaymentMaskedNumber.json"
+    },
+    {
+      "fileName": "web-corp/Web _ Corp Components -- ProgressBar.json",
+      "path": "web-corp-promo/Web _ Corp Components -- ProgressBar.json"
+    },
+    {
+      "fileName": "web-corp/Web _ Corp Components -- ResultScreen.json",
+      "path": "web-corp-promo/Web _ Corp Components -- ResultScreen.json"
+    },
+    {
+      "fileName": "web-corp/Web _ Corp Components -- ScenarioModel ! interruption.json",
+      "path": "web-corp-promo/Web _ Corp Components -- ScenarioModel ! interruption.json"
+    },
+    {
+      "fileName": "web-corp/Web _ Corp Components -- Status & Property.json",
+      "path": "web-corp-promo/Web _ Corp Components -- Status & Property.json"
+    },
+    {
+      "fileName": "web-corp/Web _ Corp Components -- Subscription.json",
+      "path": "web-corp-promo/Web _ Corp Components -- Subscription.json"
+    },
+    {
+      "fileName": "web-corp/Web _ Corp Components -- Table _ Wide [D].json",
+      "path": "web-corp-promo/Web _ Corp Components -- Table _ Wide [D].json"
+    },
+    {
+      "fileName": "web-corp/Web _ Corp Components -- TableBulkActions.json",
+      "path": "web-corp-promo/Web _ Corp Components -- TableBulkActions.json"
+    },
+    {
+      "fileName": "web-corp/Web _ Corp Components -- TableView.json",
+      "path": "web-corp-promo/Web _ Corp Components -- TableView.json"
+    },
+    {
+      "fileName": "web-corp/Web _ Corp Components -- Table_ Basic [D].json",
+      "path": "web-corp-promo/Web _ Corp Components -- Table_ Basic [D].json"
+    },
+    {
+      "fileName": "web-corp/Web _ Corp Components -- TabsView.json",
+      "path": "web-corp-promo/Web _ Corp Components -- TabsView.json"
+    },
+    {
+      "fileName": "web-corp/Web _ Corp Components -- TitleView.json",
+      "path": "web-corp-promo/Web _ Corp Components -- TitleView.json"
+    },
+    {
+      "fileName": "web-corp/Web _ Corp Components -- TitleViewMobile [M].json",
+      "path": "web-corp-promo/Web _ Corp Components -- TitleViewMobile [M].json"
+    },
+    {
+      "fileName": "web-corp/Web _ Corp Components -- VOC.json",
+      "path": "web-corp-promo/Web _ Corp Components -- VOC.json"
+    },
+    {
+      "fileName": "web-corp/Web _ Corp Components -- WidgetPlate [D].json",
+      "path": "web-corp-promo/Web _ Corp Components -- WidgetPlate [D].json"
+    },
+    {
+      "fileName": "web-corp/Web _ Corp Components -- Сhat [M].json",
+      "path": "web-corp-promo/Web _ Corp Components -- Сhat [M].json"
     }
   ]
 }

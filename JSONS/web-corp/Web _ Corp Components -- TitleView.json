@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2025-11-20T06:16:24.438Z",
+    "generatedAt": "2025-11-21T15:38:06.380Z",
     "version": "0.1.0",
     "files": [
       "TitleView"
@@ -2263,8 +2263,18 @@
       },
       "parentComponent": {
         "key": "fbc4ff889c9fe2db128bc76471f512271d4cc229",
-        "name": "[D] TitleView"
+        "name": "[D] TitleView",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "fbc4ff889c9fe2db128bc76471f512271d4cc229",
+          "name": "[D] TitleView",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "desktop"
@@ -2436,8 +2446,18 @@
       },
       "parentComponent": {
         "key": "227149bd55130d69d63e33cd3c8c52ae3f4e7e19",
-        "name": "[M] TitleView"
+        "name": "[M] TitleView",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "227149bd55130d69d63e33cd3c8c52ae3f4e7e19",
+          "name": "[M] TitleView",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "mobile-web"
@@ -2609,8 +2629,18 @@
       },
       "parentComponent": {
         "key": "fbc4ff889c9fe2db128bc76471f512271d4cc229",
-        "name": "[D] TitleView"
+        "name": "[D] TitleView",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "fbc4ff889c9fe2db128bc76471f512271d4cc229",
+          "name": "[D] TitleView",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "desktop"
@@ -3470,10 +3500,8 @@
           }
         ]
       },
-      "parentComponent": {
-        "key": "675bd696ad2069fb08e8ede37afdb9e4bb7c672b",
-        "name": "[M] DatePicker"
-      },
+      "parentComponent": null,
+      "parentComponents": [],
       "role": "part",
       "status": "active",
       "platform": "mobile-web"
@@ -5246,9 +5274,19 @@
         ]
       },
       "parentComponent": {
-        "key": "675bd696ad2069fb08e8ede37afdb9e4bb7c672b",
-        "name": "[M] DatePicker"
+        "key": "227149bd55130d69d63e33cd3c8c52ae3f4e7e19",
+        "name": "[M] TitleView",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "227149bd55130d69d63e33cd3c8c52ae3f4e7e19",
+          "name": "[M] TitleView",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "mobile-web"
@@ -7523,8 +7561,18 @@
       },
       "parentComponent": {
         "key": "227149bd55130d69d63e33cd3c8c52ae3f4e7e19",
-        "name": "[M] TitleView"
+        "name": "[M] TitleView",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "227149bd55130d69d63e33cd3c8c52ae3f4e7e19",
+          "name": "[M] TitleView",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "mobile-web"
@@ -9307,8 +9355,18 @@
       },
       "parentComponent": {
         "key": "227149bd55130d69d63e33cd3c8c52ae3f4e7e19",
-        "name": "[M] TitleView"
+        "name": "[M] TitleView",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "227149bd55130d69d63e33cd3c8c52ae3f4e7e19",
+          "name": "[M] TitleView",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "mobile-web"
@@ -10168,10 +10226,8 @@
           }
         ]
       },
-      "parentComponent": {
-        "key": "1fc97edb44d3ae3ea303925059535476ff5f4ff5",
-        "name": "[D] SideMenu"
-      },
+      "parentComponent": null,
+      "parentComponents": [],
       "role": "part",
       "status": "active",
       "platform": "desktop"
@@ -11944,9 +12000,19 @@
         ]
       },
       "parentComponent": {
-        "key": "1fc97edb44d3ae3ea303925059535476ff5f4ff5",
-        "name": "[D] SideMenu"
+        "key": "fbc4ff889c9fe2db128bc76471f512271d4cc229",
+        "name": "[D] TitleView",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "fbc4ff889c9fe2db128bc76471f512271d4cc229",
+          "name": "[D] TitleView",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "desktop"
@@ -13729,8 +13795,18 @@
       },
       "parentComponent": {
         "key": "fbc4ff889c9fe2db128bc76471f512271d4cc229",
-        "name": "[D] TitleView"
+        "name": "[D] TitleView",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "fbc4ff889c9fe2db128bc76471f512271d4cc229",
+          "name": "[D] TitleView",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "desktop"
@@ -17521,6 +17597,7 @@
         ]
       },
       "parentComponent": null,
+      "parentComponents": [],
       "role": "main",
       "status": "active",
       "platform": "mobile-web"
@@ -21832,6 +21909,7 @@
         ]
       },
       "parentComponent": null,
+      "parentComponents": [],
       "role": "main",
       "status": "active",
       "platform": "desktop"

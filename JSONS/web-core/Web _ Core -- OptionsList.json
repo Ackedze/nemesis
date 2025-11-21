@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2025-11-19T15:15:10.178Z",
+    "generatedAt": "2025-11-21T15:19:16.617Z",
     "version": "0.1.0",
     "files": [
       "OptionsList"
@@ -703,6 +703,7 @@
         ]
       },
       "parentComponent": null,
+      "parentComponents": [],
       "role": "part",
       "status": "active",
       "platform": "mobile-web"
@@ -1401,8 +1402,18 @@
       },
       "parentComponent": {
         "key": "f51d5e20757b972511c26cfd21be9440ef198675",
-        "name": "[M] OptionListHeader"
+        "name": "[M] OptionListHeader",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "f51d5e20757b972511c26cfd21be9440ef198675",
+          "name": "[M] OptionListHeader",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "mobile-web"
@@ -2101,8 +2112,18 @@
       },
       "parentComponent": {
         "key": "8343d678690e3a174a0bc5b2d9c4d10d2b373b16",
-        "name": "[D] OptionListHeader"
+        "name": "[D] OptionListHeader",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "8343d678690e3a174a0bc5b2d9c4d10d2b373b16",
+          "name": "[D] OptionListHeader",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "desktop"
@@ -2722,8 +2743,18 @@
       },
       "parentComponent": {
         "key": "97c38abfc94f20a54acbe7423fee346307e27c0a",
-        "name": "[D] OptionListFooter"
+        "name": "[D] OptionListFooter",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "97c38abfc94f20a54acbe7423fee346307e27c0a",
+          "name": "[D] OptionListFooter",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "desktop"
@@ -3421,6 +3452,7 @@
         ]
       },
       "parentComponent": null,
+      "parentComponents": [],
       "role": "part",
       "status": "active",
       "platform": "desktop"
@@ -4039,6 +4071,7 @@
         ]
       },
       "parentComponent": null,
+      "parentComponents": [],
       "role": "part",
       "status": "active",
       "platform": "desktop"
@@ -4087,8 +4120,24 @@
       },
       "parentComponent": {
         "key": "1e51970cfae6bc63904311f761162dc8efe0bf9a",
-        "name": "[M] OptionListCell"
+        "name": "[M] OptionListCell",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "1e51970cfae6bc63904311f761162dc8efe0bf9a",
+          "name": "[M] OptionListCell",
+          "role": "main",
+          "status": "active"
+        },
+        {
+          "key": "0516997e8e6beed78da92b0573d56d8f1ea261e1",
+          "name": "[D] OptionListCell",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "universal"
@@ -4208,6 +4257,7 @@
         ]
       },
       "parentComponent": null,
+      "parentComponents": [],
       "role": "part",
       "status": "active",
       "platform": "universal"
@@ -4914,8 +4964,24 @@
       },
       "parentComponent": {
         "key": "1e51970cfae6bc63904311f761162dc8efe0bf9a",
-        "name": "[M] OptionListCell"
+        "name": "[M] OptionListCell",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "1e51970cfae6bc63904311f761162dc8efe0bf9a",
+          "name": "[M] OptionListCell",
+          "role": "main",
+          "status": "active"
+        },
+        {
+          "key": "0516997e8e6beed78da92b0573d56d8f1ea261e1",
+          "name": "[D] OptionListCell",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "universal"
@@ -4978,6 +5044,7 @@
         "98e3cd2bc65486eeb525a48a06a07e8c26830c34": []
       },
       "parentComponent": null,
+      "parentComponents": [],
       "role": "main",
       "status": "active",
       "platform": "mobile-web"
@@ -5041,6 +5108,7 @@
         "28959e77711d49aa010cf9ca4052a614211f0e6d": []
       },
       "parentComponent": null,
+      "parentComponents": [],
       "role": "main",
       "status": "active",
       "platform": "mobile-web"
@@ -5178,6 +5246,7 @@
         ]
       },
       "parentComponent": null,
+      "parentComponents": [],
       "role": "main",
       "status": "active",
       "platform": "mobile-web"
@@ -5270,6 +5339,7 @@
         "f51d5e20757b972511c26cfd21be9440ef198675": []
       },
       "parentComponent": null,
+      "parentComponents": [],
       "role": "main",
       "status": "active",
       "platform": "mobile-web"
@@ -5362,6 +5432,7 @@
         "97c38abfc94f20a54acbe7423fee346307e27c0a": []
       },
       "parentComponent": null,
+      "parentComponents": [],
       "role": "main",
       "status": "active",
       "platform": "desktop"
@@ -5499,6 +5570,7 @@
         ]
       },
       "parentComponent": null,
+      "parentComponents": [],
       "role": "main",
       "status": "active",
       "platform": "desktop"
@@ -5561,6 +5633,7 @@
         "7aa8423960fee1c2bcd09d79bd4f2078f50580af": []
       },
       "parentComponent": null,
+      "parentComponents": [],
       "role": "main",
       "status": "active",
       "platform": "desktop"
@@ -5624,6 +5697,7 @@
         "f238924724aab369c60346f1d6fdc8ca22304645": []
       },
       "parentComponent": null,
+      "parentComponents": [],
       "role": "main",
       "status": "active",
       "platform": "desktop"
@@ -5716,6 +5790,7 @@
         "8343d678690e3a174a0bc5b2d9c4d10d2b373b16": []
       },
       "parentComponent": null,
+      "parentComponents": [],
       "role": "main",
       "status": "active",
       "platform": "desktop"

@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2025-11-19T15:03:11.526Z",
+    "generatedAt": "2025-11-21T14:43:07.271Z",
     "version": "0.1.0",
     "files": [
       "Input"
@@ -13108,6 +13108,7 @@
         ]
       },
       "parentComponent": null,
+      "parentComponents": [],
       "role": "main",
       "status": "active",
       "platform": "desktop"
@@ -26235,6 +26236,7 @@
         ]
       },
       "parentComponent": null,
+      "parentComponents": [],
       "role": "main",
       "status": "active",
       "platform": "desktop"
@@ -39337,6 +39339,7 @@
         ]
       },
       "parentComponent": null,
+      "parentComponents": [],
       "role": "main",
       "status": "active",
       "platform": "mobile-web"
@@ -52337,6 +52340,7 @@
         ]
       },
       "parentComponent": null,
+      "parentComponents": [],
       "role": "main",
       "status": "active",
       "platform": "mobile-web"
@@ -65439,6 +65443,7 @@
         ]
       },
       "parentComponent": null,
+      "parentComponents": [],
       "role": "main",
       "status": "active",
       "platform": "mobile-web"
@@ -78439,6 +78444,7 @@
         ]
       },
       "parentComponent": null,
+      "parentComponents": [],
       "role": "main",
       "status": "active",
       "platform": "mobile-web"
@@ -91541,6 +91547,7 @@
         ]
       },
       "parentComponent": null,
+      "parentComponents": [],
       "role": "main",
       "status": "active",
       "platform": "desktop"
@@ -104668,6 +104675,7 @@
         ]
       },
       "parentComponent": null,
+      "parentComponents": [],
       "role": "main",
       "status": "active",
       "platform": "desktop"

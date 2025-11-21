@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2025-11-19T15:01:58.520Z",
+    "generatedAt": "2025-11-21T14:41:30.499Z",
     "version": "0.1.0",
     "files": [
       "FilterButton"
@@ -434,6 +434,7 @@
         ]
       },
       "parentComponent": null,
+      "parentComponents": [],
       "role": "main",
       "status": "active",
       "platform": "mobile-web"
@@ -858,6 +859,7 @@
         ]
       },
       "parentComponent": null,
+      "parentComponents": [],
       "role": "main",
       "status": "active",
       "platform": "mobile-web"
@@ -1282,6 +1284,7 @@
         ]
       },
       "parentComponent": null,
+      "parentComponents": [],
       "role": "main",
       "status": "active",
       "platform": "desktop"
@@ -1706,6 +1709,7 @@
         ]
       },
       "parentComponent": null,
+      "parentComponents": [],
       "role": "main",
       "status": "active",
       "platform": "desktop"

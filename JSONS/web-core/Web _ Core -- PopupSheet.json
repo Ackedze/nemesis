@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2025-11-19T15:14:48.217Z",
+    "generatedAt": "2025-11-21T15:18:39.315Z",
     "version": "0.1.0",
     "files": [
       "PopupSheet"
@@ -89,8 +89,24 @@
       },
       "parentComponent": {
         "key": "865013cfcc37d92d47103e5f9805332bead6f000",
-        "name": "[AO] PopupSheet"
+        "name": "[AO] PopupSheet",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "865013cfcc37d92d47103e5f9805332bead6f000",
+          "name": "[AO] PopupSheet",
+          "role": "main",
+          "status": "active"
+        },
+        {
+          "key": "feb5891ea1273da6aeeceb0982561e63adf0bc32",
+          "name": "PopupSheet",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "universal"
@@ -306,6 +322,7 @@
         "865013cfcc37d92d47103e5f9805332bead6f000": []
       },
       "parentComponent": null,
+      "parentComponents": [],
       "role": "main",
       "status": "active",
       "platform": "universal"
@@ -521,6 +538,7 @@
         "feb5891ea1273da6aeeceb0982561e63adf0bc32": []
       },
       "parentComponent": null,
+      "parentComponents": [],
       "role": "main",
       "status": "active",
       "platform": "universal"

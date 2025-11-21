@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2025-11-19T15:15:21.805Z",
+    "generatedAt": "2025-11-21T15:20:23.156Z",
     "version": "0.1.0",
     "files": [
       "ProductCover"
@@ -184,8 +184,18 @@
       },
       "parentComponent": {
         "key": "c0f885409312a8f9d209203eb036b841b36aa67d",
-        "name": "ProductCover.Single"
+        "name": "ProductCover.Single",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "c0f885409312a8f9d209203eb036b841b36aa67d",
+          "name": "ProductCover.Single",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "universal"
@@ -273,8 +283,24 @@
       },
       "parentComponent": {
         "key": "a811f96ce69445c8f93f9e9e51a38abc0c238e31",
-        "name": "ProductCover.Stack"
+        "name": "ProductCover.Stack",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "a811f96ce69445c8f93f9e9e51a38abc0c238e31",
+          "name": "ProductCover.Stack",
+          "role": "main",
+          "status": "active"
+        },
+        {
+          "key": "c0f885409312a8f9d209203eb036b841b36aa67d",
+          "name": "ProductCover.Single",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "universal"
@@ -426,8 +452,24 @@
       },
       "parentComponent": {
         "key": "a811f96ce69445c8f93f9e9e51a38abc0c238e31",
-        "name": "ProductCover.Stack"
+        "name": "ProductCover.Stack",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "a811f96ce69445c8f93f9e9e51a38abc0c238e31",
+          "name": "ProductCover.Stack",
+          "role": "main",
+          "status": "active"
+        },
+        {
+          "key": "c0f885409312a8f9d209203eb036b841b36aa67d",
+          "name": "ProductCover.Single",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "universal"
@@ -579,8 +621,24 @@
       },
       "parentComponent": {
         "key": "a811f96ce69445c8f93f9e9e51a38abc0c238e31",
-        "name": "ProductCover.Stack"
+        "name": "ProductCover.Stack",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "a811f96ce69445c8f93f9e9e51a38abc0c238e31",
+          "name": "ProductCover.Stack",
+          "role": "main",
+          "status": "active"
+        },
+        {
+          "key": "c0f885409312a8f9d209203eb036b841b36aa67d",
+          "name": "ProductCover.Single",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "universal"
@@ -640,8 +698,24 @@
       },
       "parentComponent": {
         "key": "a811f96ce69445c8f93f9e9e51a38abc0c238e31",
-        "name": "ProductCover.Stack"
+        "name": "ProductCover.Stack",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "a811f96ce69445c8f93f9e9e51a38abc0c238e31",
+          "name": "ProductCover.Stack",
+          "role": "main",
+          "status": "active"
+        },
+        {
+          "key": "c0f885409312a8f9d209203eb036b841b36aa67d",
+          "name": "ProductCover.Single",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "universal"
@@ -701,8 +775,24 @@
       },
       "parentComponent": {
         "key": "a811f96ce69445c8f93f9e9e51a38abc0c238e31",
-        "name": "ProductCover.Stack"
+        "name": "ProductCover.Stack",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "a811f96ce69445c8f93f9e9e51a38abc0c238e31",
+          "name": "ProductCover.Stack",
+          "role": "main",
+          "status": "active"
+        },
+        {
+          "key": "c0f885409312a8f9d209203eb036b841b36aa67d",
+          "name": "ProductCover.Single",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "universal"
@@ -762,8 +852,18 @@
       },
       "parentComponent": {
         "key": "c0f885409312a8f9d209203eb036b841b36aa67d",
-        "name": "ProductCover.Single"
+        "name": "ProductCover.Single",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "c0f885409312a8f9d209203eb036b841b36aa67d",
+          "name": "ProductCover.Single",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "universal"
@@ -823,8 +923,24 @@
       },
       "parentComponent": {
         "key": "a811f96ce69445c8f93f9e9e51a38abc0c238e31",
-        "name": "ProductCover.Stack"
+        "name": "ProductCover.Stack",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "a811f96ce69445c8f93f9e9e51a38abc0c238e31",
+          "name": "ProductCover.Stack",
+          "role": "main",
+          "status": "active"
+        },
+        {
+          "key": "c0f885409312a8f9d209203eb036b841b36aa67d",
+          "name": "ProductCover.Single",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "universal"
@@ -884,8 +1000,24 @@
       },
       "parentComponent": {
         "key": "a811f96ce69445c8f93f9e9e51a38abc0c238e31",
-        "name": "ProductCover.Stack"
+        "name": "ProductCover.Stack",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "a811f96ce69445c8f93f9e9e51a38abc0c238e31",
+          "name": "ProductCover.Stack",
+          "role": "main",
+          "status": "active"
+        },
+        {
+          "key": "c0f885409312a8f9d209203eb036b841b36aa67d",
+          "name": "ProductCover.Single",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "universal"
@@ -945,8 +1077,18 @@
       },
       "parentComponent": {
         "key": "c0f885409312a8f9d209203eb036b841b36aa67d",
-        "name": "ProductCover.Single"
+        "name": "ProductCover.Single",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "c0f885409312a8f9d209203eb036b841b36aa67d",
+          "name": "ProductCover.Single",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "universal"
@@ -1062,8 +1204,24 @@
       },
       "parentComponent": {
         "key": "a811f96ce69445c8f93f9e9e51a38abc0c238e31",
-        "name": "ProductCover.Stack"
+        "name": "ProductCover.Stack",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "a811f96ce69445c8f93f9e9e51a38abc0c238e31",
+          "name": "ProductCover.Stack",
+          "role": "main",
+          "status": "active"
+        },
+        {
+          "key": "c0f885409312a8f9d209203eb036b841b36aa67d",
+          "name": "ProductCover.Single",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "universal"
@@ -5114,6 +5272,7 @@
         ]
       },
       "parentComponent": null,
+      "parentComponents": [],
       "role": "main",
       "status": "active",
       "platform": "universal"
@@ -6746,6 +6905,7 @@
         ]
       },
       "parentComponent": null,
+      "parentComponents": [],
       "role": "main",
       "status": "active",
       "platform": "universal"

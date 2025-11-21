@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2025-11-19T15:06:31.431Z",
+    "generatedAt": "2025-11-21T14:51:12.372Z",
     "version": "0.1.0",
     "files": [
       "NumberInput"
@@ -15107,6 +15107,7 @@
         ]
       },
       "parentComponent": null,
+      "parentComponents": [],
       "role": "main",
       "status": "active",
       "platform": "desktop"
@@ -30293,6 +30294,7 @@
         ]
       },
       "parentComponent": null,
+      "parentComponents": [],
       "role": "main",
       "status": "active",
       "platform": "desktop"
@@ -45394,6 +45396,7 @@
         ]
       },
       "parentComponent": null,
+      "parentComponents": [],
       "role": "main",
       "status": "active",
       "platform": "mobile-web"
@@ -60468,6 +60471,7 @@
         ]
       },
       "parentComponent": null,
+      "parentComponents": [],
       "role": "main",
       "status": "active",
       "platform": "mobile-web"
@@ -75576,6 +75580,7 @@
         ]
       },
       "parentComponent": null,
+      "parentComponents": [],
       "role": "main",
       "status": "active",
       "platform": "mobile-web"
@@ -90515,6 +90520,7 @@
         ]
       },
       "parentComponent": null,
+      "parentComponents": [],
       "role": "main",
       "status": "active",
       "platform": "mobile-web"
@@ -105616,6 +105622,7 @@
         ]
       },
       "parentComponent": null,
+      "parentComponents": [],
       "role": "main",
       "status": "active",
       "platform": "desktop"
@@ -120802,6 +120809,7 @@
         ]
       },
       "parentComponent": null,
+      "parentComponents": [],
       "role": "main",
       "status": "active",
       "platform": "desktop"
@@ -121034,8 +121042,36 @@
       },
       "parentComponent": {
         "key": "ef0e4430721b1bca3e7f3f4aa457f4d5b7a7dc2b",
-        "name": "[D][Corporate] NumberInput_Inverted"
+        "name": "[D][Corporate] NumberInput_Inverted",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "ef0e4430721b1bca3e7f3f4aa457f4d5b7a7dc2b",
+          "name": "[D][Corporate] NumberInput_Inverted",
+          "role": "main",
+          "status": "active"
+        },
+        {
+          "key": "3c9c55460b5cf10612a5d24320327c09ce89ed52",
+          "name": "[M][AO] NumberInput_Inverted",
+          "role": "main",
+          "status": "active"
+        },
+        {
+          "key": "98dec79f7dd3365d9e621d93ad8e19047ee46916",
+          "name": "[M] NumberInput_Inverted",
+          "role": "main",
+          "status": "active"
+        },
+        {
+          "key": "eef1a60dcd2746910a95f0af890655cd547e669a",
+          "name": "[D] NumberInput_Inverted",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "universal"
@@ -121268,8 +121304,36 @@
       },
       "parentComponent": {
         "key": "ef0e4430721b1bca3e7f3f4aa457f4d5b7a7dc2b",
-        "name": "[D][Corporate] NumberInput_Inverted"
+        "name": "[D][Corporate] NumberInput_Inverted",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "ef0e4430721b1bca3e7f3f4aa457f4d5b7a7dc2b",
+          "name": "[D][Corporate] NumberInput_Inverted",
+          "role": "main",
+          "status": "active"
+        },
+        {
+          "key": "3c9c55460b5cf10612a5d24320327c09ce89ed52",
+          "name": "[M][AO] NumberInput_Inverted",
+          "role": "main",
+          "status": "active"
+        },
+        {
+          "key": "98dec79f7dd3365d9e621d93ad8e19047ee46916",
+          "name": "[M] NumberInput_Inverted",
+          "role": "main",
+          "status": "active"
+        },
+        {
+          "key": "eef1a60dcd2746910a95f0af890655cd547e669a",
+          "name": "[D] NumberInput_Inverted",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "universal"
@@ -121502,8 +121566,36 @@
       },
       "parentComponent": {
         "key": "fb2612fc5371fe14ecfbf5bbd5305c469230abc5",
-        "name": "[D][Corporate] NumberInput"
+        "name": "[D][Corporate] NumberInput",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "fb2612fc5371fe14ecfbf5bbd5305c469230abc5",
+          "name": "[D][Corporate] NumberInput",
+          "role": "main",
+          "status": "active"
+        },
+        {
+          "key": "85c854bb4524ee505068405b5b0b093bf63ba702",
+          "name": "[M][AO] NumberInput",
+          "role": "main",
+          "status": "active"
+        },
+        {
+          "key": "5020184462641b89bcc1b2bcf40a1153df2695a9",
+          "name": "[M] NumberInput",
+          "role": "main",
+          "status": "active"
+        },
+        {
+          "key": "a7b204bd29a0617346a6e45af793c2fe7156f78b",
+          "name": "[D] NumberInput",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "universal"
@@ -121736,8 +121828,36 @@
       },
       "parentComponent": {
         "key": "fb2612fc5371fe14ecfbf5bbd5305c469230abc5",
-        "name": "[D][Corporate] NumberInput"
+        "name": "[D][Corporate] NumberInput",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "fb2612fc5371fe14ecfbf5bbd5305c469230abc5",
+          "name": "[D][Corporate] NumberInput",
+          "role": "main",
+          "status": "active"
+        },
+        {
+          "key": "85c854bb4524ee505068405b5b0b093bf63ba702",
+          "name": "[M][AO] NumberInput",
+          "role": "main",
+          "status": "active"
+        },
+        {
+          "key": "5020184462641b89bcc1b2bcf40a1153df2695a9",
+          "name": "[M] NumberInput",
+          "role": "main",
+          "status": "active"
+        },
+        {
+          "key": "a7b204bd29a0617346a6e45af793c2fe7156f78b",
+          "name": "[D] NumberInput",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "universal"
@@ -121970,8 +122090,36 @@
       },
       "parentComponent": {
         "key": "ef0e4430721b1bca3e7f3f4aa457f4d5b7a7dc2b",
-        "name": "[D][Corporate] NumberInput_Inverted"
+        "name": "[D][Corporate] NumberInput_Inverted",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "ef0e4430721b1bca3e7f3f4aa457f4d5b7a7dc2b",
+          "name": "[D][Corporate] NumberInput_Inverted",
+          "role": "main",
+          "status": "active"
+        },
+        {
+          "key": "3c9c55460b5cf10612a5d24320327c09ce89ed52",
+          "name": "[M][AO] NumberInput_Inverted",
+          "role": "main",
+          "status": "active"
+        },
+        {
+          "key": "98dec79f7dd3365d9e621d93ad8e19047ee46916",
+          "name": "[M] NumberInput_Inverted",
+          "role": "main",
+          "status": "active"
+        },
+        {
+          "key": "eef1a60dcd2746910a95f0af890655cd547e669a",
+          "name": "[D] NumberInput_Inverted",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "universal"
@@ -122204,8 +122352,36 @@
       },
       "parentComponent": {
         "key": "ef0e4430721b1bca3e7f3f4aa457f4d5b7a7dc2b",
-        "name": "[D][Corporate] NumberInput_Inverted"
+        "name": "[D][Corporate] NumberInput_Inverted",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "ef0e4430721b1bca3e7f3f4aa457f4d5b7a7dc2b",
+          "name": "[D][Corporate] NumberInput_Inverted",
+          "role": "main",
+          "status": "active"
+        },
+        {
+          "key": "3c9c55460b5cf10612a5d24320327c09ce89ed52",
+          "name": "[M][AO] NumberInput_Inverted",
+          "role": "main",
+          "status": "active"
+        },
+        {
+          "key": "98dec79f7dd3365d9e621d93ad8e19047ee46916",
+          "name": "[M] NumberInput_Inverted",
+          "role": "main",
+          "status": "active"
+        },
+        {
+          "key": "eef1a60dcd2746910a95f0af890655cd547e669a",
+          "name": "[D] NumberInput_Inverted",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "universal"
@@ -122438,8 +122614,36 @@
       },
       "parentComponent": {
         "key": "fb2612fc5371fe14ecfbf5bbd5305c469230abc5",
-        "name": "[D][Corporate] NumberInput"
+        "name": "[D][Corporate] NumberInput",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "fb2612fc5371fe14ecfbf5bbd5305c469230abc5",
+          "name": "[D][Corporate] NumberInput",
+          "role": "main",
+          "status": "active"
+        },
+        {
+          "key": "85c854bb4524ee505068405b5b0b093bf63ba702",
+          "name": "[M][AO] NumberInput",
+          "role": "main",
+          "status": "active"
+        },
+        {
+          "key": "5020184462641b89bcc1b2bcf40a1153df2695a9",
+          "name": "[M] NumberInput",
+          "role": "main",
+          "status": "active"
+        },
+        {
+          "key": "a7b204bd29a0617346a6e45af793c2fe7156f78b",
+          "name": "[D] NumberInput",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "universal"
@@ -122672,8 +122876,36 @@
       },
       "parentComponent": {
         "key": "fb2612fc5371fe14ecfbf5bbd5305c469230abc5",
-        "name": "[D][Corporate] NumberInput"
+        "name": "[D][Corporate] NumberInput",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "fb2612fc5371fe14ecfbf5bbd5305c469230abc5",
+          "name": "[D][Corporate] NumberInput",
+          "role": "main",
+          "status": "active"
+        },
+        {
+          "key": "85c854bb4524ee505068405b5b0b093bf63ba702",
+          "name": "[M][AO] NumberInput",
+          "role": "main",
+          "status": "active"
+        },
+        {
+          "key": "5020184462641b89bcc1b2bcf40a1153df2695a9",
+          "name": "[M] NumberInput",
+          "role": "main",
+          "status": "active"
+        },
+        {
+          "key": "a7b204bd29a0617346a6e45af793c2fe7156f78b",
+          "name": "[D] NumberInput",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "universal"

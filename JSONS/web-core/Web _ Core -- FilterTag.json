@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2025-11-19T15:13:56.411Z",
+    "generatedAt": "2025-11-21T15:16:12.660Z",
     "version": "0.1.0",
     "files": [
       "FilterTag"
@@ -7235,6 +7235,7 @@
         ]
       },
       "parentComponent": null,
+      "parentComponents": [],
       "role": "main",
       "status": "active",
       "platform": "mobile-web"
@@ -14464,6 +14465,7 @@
         ]
       },
       "parentComponent": null,
+      "parentComponents": [],
       "role": "main",
       "status": "active",
       "platform": "mobile-web"
@@ -21693,6 +21695,7 @@
         ]
       },
       "parentComponent": null,
+      "parentComponents": [],
       "role": "main",
       "status": "active",
       "platform": "desktop"
@@ -28922,6 +28925,7 @@
         ]
       },
       "parentComponent": null,
+      "parentComponents": [],
       "role": "main",
       "status": "active",
       "platform": "desktop"
@@ -29006,8 +29010,60 @@
       },
       "parentComponent": {
         "key": "ff7baec0d805d90164c433621e2101470214e6e7",
-        "name": "[M][Corporate] FilterTag_Inverted"
+        "name": "[M][Corporate] FilterTag_Inverted",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "ff7baec0d805d90164c433621e2101470214e6e7",
+          "name": "[M][Corporate] FilterTag_Inverted",
+          "role": "main",
+          "status": "active"
+        },
+        {
+          "key": "34f7619d8cf52b8e77eeb8ffef28678d9b34e06a",
+          "name": "[M][Corporate] FilterTag",
+          "role": "main",
+          "status": "active"
+        },
+        {
+          "key": "7d825540f6a43bb2e35bc1c46c25e72aba1d68f6",
+          "name": "[D][Corporate] FilterTag_Inverted",
+          "role": "main",
+          "status": "active"
+        },
+        {
+          "key": "c1b41c9e4ab424d8335033b70356b94435bb6db8",
+          "name": "[D][Corporate] FilterTag",
+          "role": "main",
+          "status": "active"
+        },
+        {
+          "key": "98744092c332dcacfe415c1eaf4593491ff7deda",
+          "name": "[M] FilterTag_Inverted",
+          "role": "main",
+          "status": "active"
+        },
+        {
+          "key": "9b2699c7652040b8371c8060702fc7058d28ca11",
+          "name": "[M] FilterTag",
+          "role": "main",
+          "status": "active"
+        },
+        {
+          "key": "bac591ead76fa7e77c20d4ff195418163ce92636",
+          "name": "[D] FilterTag_Inverted",
+          "role": "main",
+          "status": "active"
+        },
+        {
+          "key": "d9b9681e2ae6538708cecc0c57ecdb5cac8f2691",
+          "name": "[D] FilterTag",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "universal"
@@ -29146,8 +29202,60 @@
       },
       "parentComponent": {
         "key": "ff7baec0d805d90164c433621e2101470214e6e7",
-        "name": "[M][Corporate] FilterTag_Inverted"
+        "name": "[M][Corporate] FilterTag_Inverted",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "ff7baec0d805d90164c433621e2101470214e6e7",
+          "name": "[M][Corporate] FilterTag_Inverted",
+          "role": "main",
+          "status": "active"
+        },
+        {
+          "key": "34f7619d8cf52b8e77eeb8ffef28678d9b34e06a",
+          "name": "[M][Corporate] FilterTag",
+          "role": "main",
+          "status": "active"
+        },
+        {
+          "key": "7d825540f6a43bb2e35bc1c46c25e72aba1d68f6",
+          "name": "[D][Corporate] FilterTag_Inverted",
+          "role": "main",
+          "status": "active"
+        },
+        {
+          "key": "c1b41c9e4ab424d8335033b70356b94435bb6db8",
+          "name": "[D][Corporate] FilterTag",
+          "role": "main",
+          "status": "active"
+        },
+        {
+          "key": "98744092c332dcacfe415c1eaf4593491ff7deda",
+          "name": "[M] FilterTag_Inverted",
+          "role": "main",
+          "status": "active"
+        },
+        {
+          "key": "9b2699c7652040b8371c8060702fc7058d28ca11",
+          "name": "[M] FilterTag",
+          "role": "main",
+          "status": "active"
+        },
+        {
+          "key": "bac591ead76fa7e77c20d4ff195418163ce92636",
+          "name": "[D] FilterTag_Inverted",
+          "role": "main",
+          "status": "active"
+        },
+        {
+          "key": "d9b9681e2ae6538708cecc0c57ecdb5cac8f2691",
+          "name": "[D] FilterTag",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "universal"
@@ -29232,8 +29340,60 @@
       },
       "parentComponent": {
         "key": "ff7baec0d805d90164c433621e2101470214e6e7",
-        "name": "[M][Corporate] FilterTag_Inverted"
+        "name": "[M][Corporate] FilterTag_Inverted",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "ff7baec0d805d90164c433621e2101470214e6e7",
+          "name": "[M][Corporate] FilterTag_Inverted",
+          "role": "main",
+          "status": "active"
+        },
+        {
+          "key": "34f7619d8cf52b8e77eeb8ffef28678d9b34e06a",
+          "name": "[M][Corporate] FilterTag",
+          "role": "main",
+          "status": "active"
+        },
+        {
+          "key": "7d825540f6a43bb2e35bc1c46c25e72aba1d68f6",
+          "name": "[D][Corporate] FilterTag_Inverted",
+          "role": "main",
+          "status": "active"
+        },
+        {
+          "key": "c1b41c9e4ab424d8335033b70356b94435bb6db8",
+          "name": "[D][Corporate] FilterTag",
+          "role": "main",
+          "status": "active"
+        },
+        {
+          "key": "98744092c332dcacfe415c1eaf4593491ff7deda",
+          "name": "[M] FilterTag_Inverted",
+          "role": "main",
+          "status": "active"
+        },
+        {
+          "key": "9b2699c7652040b8371c8060702fc7058d28ca11",
+          "name": "[M] FilterTag",
+          "role": "main",
+          "status": "active"
+        },
+        {
+          "key": "bac591ead76fa7e77c20d4ff195418163ce92636",
+          "name": "[D] FilterTag_Inverted",
+          "role": "main",
+          "status": "active"
+        },
+        {
+          "key": "d9b9681e2ae6538708cecc0c57ecdb5cac8f2691",
+          "name": "[D] FilterTag",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "universal"
@@ -29372,8 +29532,60 @@
       },
       "parentComponent": {
         "key": "ff7baec0d805d90164c433621e2101470214e6e7",
-        "name": "[M][Corporate] FilterTag_Inverted"
+        "name": "[M][Corporate] FilterTag_Inverted",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "ff7baec0d805d90164c433621e2101470214e6e7",
+          "name": "[M][Corporate] FilterTag_Inverted",
+          "role": "main",
+          "status": "active"
+        },
+        {
+          "key": "34f7619d8cf52b8e77eeb8ffef28678d9b34e06a",
+          "name": "[M][Corporate] FilterTag",
+          "role": "main",
+          "status": "active"
+        },
+        {
+          "key": "7d825540f6a43bb2e35bc1c46c25e72aba1d68f6",
+          "name": "[D][Corporate] FilterTag_Inverted",
+          "role": "main",
+          "status": "active"
+        },
+        {
+          "key": "c1b41c9e4ab424d8335033b70356b94435bb6db8",
+          "name": "[D][Corporate] FilterTag",
+          "role": "main",
+          "status": "active"
+        },
+        {
+          "key": "98744092c332dcacfe415c1eaf4593491ff7deda",
+          "name": "[M] FilterTag_Inverted",
+          "role": "main",
+          "status": "active"
+        },
+        {
+          "key": "9b2699c7652040b8371c8060702fc7058d28ca11",
+          "name": "[M] FilterTag",
+          "role": "main",
+          "status": "active"
+        },
+        {
+          "key": "bac591ead76fa7e77c20d4ff195418163ce92636",
+          "name": "[D] FilterTag_Inverted",
+          "role": "main",
+          "status": "active"
+        },
+        {
+          "key": "d9b9681e2ae6538708cecc0c57ecdb5cac8f2691",
+          "name": "[D] FilterTag",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "universal"
@@ -36603,6 +36815,7 @@
         ]
       },
       "parentComponent": null,
+      "parentComponents": [],
       "role": "main",
       "status": "active",
       "platform": "mobile-web"
@@ -43832,6 +44045,7 @@
         ]
       },
       "parentComponent": null,
+      "parentComponents": [],
       "role": "main",
       "status": "active",
       "platform": "mobile-web"
@@ -51061,6 +51275,7 @@
         ]
       },
       "parentComponent": null,
+      "parentComponents": [],
       "role": "main",
       "status": "active",
       "platform": "desktop"
@@ -58290,6 +58505,7 @@
         ]
       },
       "parentComponent": null,
+      "parentComponents": [],
       "role": "main",
       "status": "active",
       "platform": "desktop"

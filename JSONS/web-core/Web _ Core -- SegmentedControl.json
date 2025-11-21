@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2025-11-19T15:14:15.478Z",
+    "generatedAt": "2025-11-21T15:16:49.491Z",
     "version": "0.1.0",
     "files": [
       "SegmentedControl"
@@ -258,8 +258,18 @@
       },
       "parentComponent": {
         "key": "59bc4abdef403a2bdff0407e6a9d547c97ed340c",
-        "name": "SegmentedControl"
+        "name": "SegmentedControl",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "59bc4abdef403a2bdff0407e6a9d547c97ed340c",
+          "name": "SegmentedControl",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "universal"
@@ -512,8 +522,18 @@
       },
       "parentComponent": {
         "key": "59bc4abdef403a2bdff0407e6a9d547c97ed340c",
-        "name": "SegmentedControl"
+        "name": "SegmentedControl",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "59bc4abdef403a2bdff0407e6a9d547c97ed340c",
+          "name": "SegmentedControl",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "universal"
@@ -766,8 +786,18 @@
       },
       "parentComponent": {
         "key": "59bc4abdef403a2bdff0407e6a9d547c97ed340c",
-        "name": "SegmentedControl"
+        "name": "SegmentedControl",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "59bc4abdef403a2bdff0407e6a9d547c97ed340c",
+          "name": "SegmentedControl",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "universal"
@@ -1020,8 +1050,18 @@
       },
       "parentComponent": {
         "key": "59bc4abdef403a2bdff0407e6a9d547c97ed340c",
-        "name": "SegmentedControl"
+        "name": "SegmentedControl",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "59bc4abdef403a2bdff0407e6a9d547c97ed340c",
+          "name": "SegmentedControl",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "universal"
@@ -6971,6 +7011,7 @@
         ]
       },
       "parentComponent": null,
+      "parentComponents": [],
       "role": "main",
       "status": "active",
       "platform": "universal"
@@ -7018,9 +7059,19 @@
         "edf1ea54a782d0fc1ee2eb8fa24fa00838c03bc1": []
       },
       "parentComponent": {
-        "key": "1520f8620218b4daf8cbd1968bff4ec2cd51551b",
-        "name": "🔩 Segment"
+        "key": "59bc4abdef403a2bdff0407e6a9d547c97ed340c",
+        "name": "SegmentedControl",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "59bc4abdef403a2bdff0407e6a9d547c97ed340c",
+          "name": "SegmentedControl",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "universal"
@@ -7273,8 +7324,18 @@
       },
       "parentComponent": {
         "key": "59bc4abdef403a2bdff0407e6a9d547c97ed340c",
-        "name": "SegmentedControl"
+        "name": "SegmentedControl",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "59bc4abdef403a2bdff0407e6a9d547c97ed340c",
+          "name": "SegmentedControl",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "universal"
@@ -7526,8 +7587,18 @@
       },
       "parentComponent": {
         "key": "59bc4abdef403a2bdff0407e6a9d547c97ed340c",
-        "name": "SegmentedControl"
+        "name": "SegmentedControl",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "59bc4abdef403a2bdff0407e6a9d547c97ed340c",
+          "name": "SegmentedControl",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "universal"
@@ -7780,8 +7851,18 @@
       },
       "parentComponent": {
         "key": "59bc4abdef403a2bdff0407e6a9d547c97ed340c",
-        "name": "SegmentedControl"
+        "name": "SegmentedControl",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "59bc4abdef403a2bdff0407e6a9d547c97ed340c",
+          "name": "SegmentedControl",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "universal"
@@ -8034,8 +8115,18 @@
       },
       "parentComponent": {
         "key": "59bc4abdef403a2bdff0407e6a9d547c97ed340c",
-        "name": "SegmentedControl"
+        "name": "SegmentedControl",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "59bc4abdef403a2bdff0407e6a9d547c97ed340c",
+          "name": "SegmentedControl",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "universal"

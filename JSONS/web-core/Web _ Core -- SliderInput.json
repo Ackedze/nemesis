@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2025-11-19T15:07:08.399Z",
+    "generatedAt": "2025-11-21T14:52:41.412Z",
     "version": "0.1.0",
     "files": [
       "SliderInput"
@@ -15387,6 +15387,7 @@
         ]
       },
       "parentComponent": null,
+      "parentComponents": [],
       "role": "main",
       "status": "active",
       "platform": "desktop"
@@ -30692,6 +30693,7 @@
         ]
       },
       "parentComponent": null,
+      "parentComponents": [],
       "role": "main",
       "status": "active",
       "platform": "desktop"
@@ -46073,6 +46075,7 @@
         ]
       },
       "parentComponent": null,
+      "parentComponents": [],
       "role": "main",
       "status": "active",
       "platform": "mobile-web"
@@ -61308,6 +61311,7 @@
         ]
       },
       "parentComponent": null,
+      "parentComponents": [],
       "role": "main",
       "status": "active",
       "platform": "mobile-web"
@@ -76689,6 +76693,7 @@
         ]
       },
       "parentComponent": null,
+      "parentComponents": [],
       "role": "main",
       "status": "active",
       "platform": "mobile-web"
@@ -91924,6 +91929,7 @@
         ]
       },
       "parentComponent": null,
+      "parentComponents": [],
       "role": "main",
       "status": "active",
       "platform": "mobile-web"
@@ -107305,6 +107311,7 @@
         ]
       },
       "parentComponent": null,
+      "parentComponents": [],
       "role": "main",
       "status": "active",
       "platform": "desktop"
@@ -122610,6 +122617,7 @@
         ]
       },
       "parentComponent": null,
+      "parentComponents": [],
       "role": "main",
       "status": "active",
       "platform": "desktop"
@@ -122742,8 +122750,36 @@
       },
       "parentComponent": {
         "key": "d96dbf46b88f419f1b134eef4fa6b94d8239a57b",
-        "name": "[D][Corporate] SliderInput_Inverted"
+        "name": "[D][Corporate] SliderInput_Inverted",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "d96dbf46b88f419f1b134eef4fa6b94d8239a57b",
+          "name": "[D][Corporate] SliderInput_Inverted",
+          "role": "main",
+          "status": "active"
+        },
+        {
+          "key": "38cc0b8bbabc13b14d79f4dce3a1c9370633cc8c",
+          "name": "[M][AO] SliderInput_Inverted",
+          "role": "main",
+          "status": "active"
+        },
+        {
+          "key": "130010b8fcd1312225b58af0873225b07c614ca0",
+          "name": "[M] SliderInput_Inverted",
+          "role": "main",
+          "status": "active"
+        },
+        {
+          "key": "91cc6d8793caa5b885c09974cbadca1f057095d9",
+          "name": "[D] SliderInput_Inverted",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "universal"
@@ -122876,8 +122912,36 @@
       },
       "parentComponent": {
         "key": "9118e65c665f4240c75df6884870d69785d113c7",
-        "name": "[D][Corporate] SliderInput"
+        "name": "[D][Corporate] SliderInput",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "9118e65c665f4240c75df6884870d69785d113c7",
+          "name": "[D][Corporate] SliderInput",
+          "role": "main",
+          "status": "active"
+        },
+        {
+          "key": "a7b8015b8cd15640f5b9d9aad416e0b334324b57",
+          "name": "[M][AO] SliderInput",
+          "role": "main",
+          "status": "active"
+        },
+        {
+          "key": "6cc03ed84b496655ee23e74a92a03d54b05b65d0",
+          "name": "[M] SliderInput",
+          "role": "main",
+          "status": "active"
+        },
+        {
+          "key": "29dd11dd8b2ab961ec693dcf925be095df31448a",
+          "name": "[D] SliderInput",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "universal"

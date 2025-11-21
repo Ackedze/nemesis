@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2025-11-19T15:14:26.332Z",
+    "generatedAt": "2025-11-21T15:17:12.474Z",
     "version": "0.1.0",
     "files": [
       "UniversalModal"
@@ -80,8 +80,18 @@
       },
       "parentComponent": {
         "key": "b5a9e84ef0ade6f3613e4fafab267ebd516be4c7",
-        "name": "[M] UniversalModalBody"
+        "name": "[M] UniversalModalBody",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "b5a9e84ef0ade6f3613e4fafab267ebd516be4c7",
+          "name": "[M] UniversalModalBody",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "mobile-web"
@@ -4026,8 +4036,18 @@
       },
       "parentComponent": {
         "key": "8104b8420b9f55eb5e1beb5a20e173dd7d9229dc",
-        "name": "[M] UniversalModalHeader"
+        "name": "[M] UniversalModalHeader",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "8104b8420b9f55eb5e1beb5a20e173dd7d9229dc",
+          "name": "[M] UniversalModalHeader",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "mobile-web"
@@ -6416,8 +6436,18 @@
       },
       "parentComponent": {
         "key": "ecb59e96b10997711033f3f147fccdad0b36c03d",
-        "name": "[D] UniversalModalHeader"
+        "name": "[D] UniversalModalHeader",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "ecb59e96b10997711033f3f147fccdad0b36c03d",
+          "name": "[D] UniversalModalHeader",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "desktop"
@@ -6607,8 +6637,18 @@
       },
       "parentComponent": {
         "key": "ecb59e96b10997711033f3f147fccdad0b36c03d",
-        "name": "[D] UniversalModalHeader"
+        "name": "[D] UniversalModalHeader",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "ecb59e96b10997711033f3f147fccdad0b36c03d",
+          "name": "[D] UniversalModalHeader",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "desktop"
@@ -6656,9 +6696,19 @@
         "0c9402856a3ae5cce33542b2b6d10e17de5485ea": []
       },
       "parentComponent": {
-        "key": "138088e479c4ba31c8fd632a60ce983b434c8df8",
-        "name": "🔩 [D] Navigation"
+        "key": "ecb59e96b10997711033f3f147fccdad0b36c03d",
+        "name": "[D] UniversalModalHeader",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "ecb59e96b10997711033f3f147fccdad0b36c03d",
+          "name": "[D] UniversalModalHeader",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "desktop"
@@ -6823,9 +6873,19 @@
         ]
       },
       "parentComponent": {
-        "key": "138088e479c4ba31c8fd632a60ce983b434c8df8",
-        "name": "🔩 [D] Navigation"
+        "key": "ecb59e96b10997711033f3f147fccdad0b36c03d",
+        "name": "[D] UniversalModalHeader",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "ecb59e96b10997711033f3f147fccdad0b36c03d",
+          "name": "[D] UniversalModalHeader",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "desktop"
@@ -6988,9 +7048,19 @@
         ]
       },
       "parentComponent": {
-        "key": "138088e479c4ba31c8fd632a60ce983b434c8df8",
-        "name": "🔩 [D] Navigation"
+        "key": "ecb59e96b10997711033f3f147fccdad0b36c03d",
+        "name": "[D] UniversalModalHeader",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "ecb59e96b10997711033f3f147fccdad0b36c03d",
+          "name": "[D] UniversalModalHeader",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "desktop"
@@ -7170,9 +7240,19 @@
         ]
       },
       "parentComponent": {
-        "key": "138088e479c4ba31c8fd632a60ce983b434c8df8",
-        "name": "🔩 [D] Navigation"
+        "key": "ecb59e96b10997711033f3f147fccdad0b36c03d",
+        "name": "[D] UniversalModalHeader",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "ecb59e96b10997711033f3f147fccdad0b36c03d",
+          "name": "[D] UniversalModalHeader",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "desktop"
@@ -8402,8 +8482,18 @@
       },
       "parentComponent": {
         "key": "73a535cea1b7d3b7ae2763584d684f52cf16fc00",
-        "name": "[D][Corporate] UniversalModalFooter"
+        "name": "[D][Corporate] UniversalModalFooter",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "73a535cea1b7d3b7ae2763584d684f52cf16fc00",
+          "name": "[D][Corporate] UniversalModalFooter",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "desktop"
@@ -8462,8 +8552,24 @@
       },
       "parentComponent": {
         "key": "73a535cea1b7d3b7ae2763584d684f52cf16fc00",
-        "name": "[D][Corporate] UniversalModalFooter"
+        "name": "[D][Corporate] UniversalModalFooter",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "73a535cea1b7d3b7ae2763584d684f52cf16fc00",
+          "name": "[D][Corporate] UniversalModalFooter",
+          "role": "main",
+          "status": "active"
+        },
+        {
+          "key": "eecebb0b6c1f6a5b6b6d1333cf951731d84dafe3",
+          "name": "[D] UniversalModalFooter",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "desktop"
@@ -9693,8 +9799,18 @@
       },
       "parentComponent": {
         "key": "eecebb0b6c1f6a5b6b6d1333cf951731d84dafe3",
-        "name": "[D] UniversalModalFooter"
+        "name": "[D] UniversalModalFooter",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "eecebb0b6c1f6a5b6b6d1333cf951731d84dafe3",
+          "name": "[D] UniversalModalFooter",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "desktop"
@@ -9759,8 +9875,24 @@
       },
       "parentComponent": {
         "key": "e0ba317bfdabd2464f7cb184d85f50498f8fdfe9",
-        "name": "[M][Corporate]  UniversalModalFooter"
+        "name": "[M][Corporate]  UniversalModalFooter",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "e0ba317bfdabd2464f7cb184d85f50498f8fdfe9",
+          "name": "[M][Corporate]  UniversalModalFooter",
+          "role": "main",
+          "status": "active"
+        },
+        {
+          "key": "2612cc7cfd1db0e325cd75cd349a4879c8143012",
+          "name": "[M] UniversalModalFooter",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "mobile-web"
@@ -10170,8 +10302,18 @@
       },
       "parentComponent": {
         "key": "2612cc7cfd1db0e325cd75cd349a4879c8143012",
-        "name": "[M] UniversalModalFooter"
+        "name": "[M] UniversalModalFooter",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "2612cc7cfd1db0e325cd75cd349a4879c8143012",
+          "name": "[M] UniversalModalFooter",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "mobile-web"
@@ -10581,8 +10723,18 @@
       },
       "parentComponent": {
         "key": "e0ba317bfdabd2464f7cb184d85f50498f8fdfe9",
-        "name": "[M][Corporate]  UniversalModalFooter"
+        "name": "[M][Corporate]  UniversalModalFooter",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "e0ba317bfdabd2464f7cb184d85f50498f8fdfe9",
+          "name": "[M][Corporate]  UniversalModalFooter",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "mobile-web"
@@ -10764,6 +10916,7 @@
         "aac5e27c3af772fc6142d9cc14f481d5fa69a405": []
       },
       "parentComponent": null,
+      "parentComponents": [],
       "role": "main",
       "status": "active",
       "platform": "universal"
@@ -11709,6 +11862,7 @@
         ]
       },
       "parentComponent": null,
+      "parentComponents": [],
       "role": "main",
       "status": "active",
       "platform": "mobile-web"
@@ -13164,6 +13318,7 @@
         ]
       },
       "parentComponent": null,
+      "parentComponents": [],
       "role": "main",
       "status": "active",
       "platform": "desktop"
@@ -13222,8 +13377,18 @@
       },
       "parentComponent": {
         "key": "91428cc8a0e08451abb7c204605bb242e0b9a165",
-        "name": "[D] UniversalModalBody"
+        "name": "[D] UniversalModalBody",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "91428cc8a0e08451abb7c204605bb242e0b9a165",
+          "name": "[D] UniversalModalBody",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "desktop"
@@ -13363,6 +13528,7 @@
         "91428cc8a0e08451abb7c204605bb242e0b9a165": []
       },
       "parentComponent": null,
+      "parentComponents": [],
       "role": "main",
       "status": "active",
       "platform": "desktop"
@@ -14240,6 +14406,7 @@
         ]
       },
       "parentComponent": null,
+      "parentComponents": [],
       "role": "main",
       "status": "active",
       "platform": "desktop"
@@ -15695,6 +15862,7 @@
         ]
       },
       "parentComponent": null,
+      "parentComponents": [],
       "role": "main",
       "status": "active",
       "platform": "desktop"
@@ -15803,6 +15971,7 @@
         "b5a9e84ef0ade6f3613e4fafab267ebd516be4c7": []
       },
       "parentComponent": null,
+      "parentComponents": [],
       "role": "main",
       "status": "active",
       "platform": "mobile-web"
@@ -16896,6 +17065,7 @@
         ]
       },
       "parentComponent": null,
+      "parentComponents": [],
       "role": "main",
       "status": "active",
       "platform": "mobile-web"
@@ -17841,6 +18011,7 @@
         ]
       },
       "parentComponent": null,
+      "parentComponents": [],
       "role": "main",
       "status": "active",
       "platform": "mobile-web"

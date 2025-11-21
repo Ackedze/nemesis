@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2025-11-19T15:12:22.475Z",
+    "generatedAt": "2025-11-21T15:14:21.719Z",
     "version": "0.1.0",
     "files": [
       "CodeInput"
@@ -239,8 +239,18 @@
       },
       "parentComponent": {
         "key": "c82a121d95fcdc11e252e431d44f6f31e8e1ff30",
-        "name": "[D][Corporate] CodeInput"
+        "name": "[D][Corporate] CodeInput",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "c82a121d95fcdc11e252e431d44f6f31e8e1ff30",
+          "name": "[D][Corporate] CodeInput",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "desktop"
@@ -474,8 +484,18 @@
       },
       "parentComponent": {
         "key": "c82a121d95fcdc11e252e431d44f6f31e8e1ff30",
-        "name": "[D][Corporate] CodeInput"
+        "name": "[D][Corporate] CodeInput",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "c82a121d95fcdc11e252e431d44f6f31e8e1ff30",
+          "name": "[D][Corporate] CodeInput",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "desktop"
@@ -1408,6 +1428,7 @@
         ]
       },
       "parentComponent": null,
+      "parentComponents": [],
       "role": "main",
       "status": "active",
       "platform": "desktop"
@@ -1641,8 +1662,18 @@
       },
       "parentComponent": {
         "key": "4e45cbf3787b16d0953f56808f938aee05158b1c",
-        "name": "[M] CodeInput"
+        "name": "[M] CodeInput",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "4e45cbf3787b16d0953f56808f938aee05158b1c",
+          "name": "[M] CodeInput",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "mobile-web"
@@ -1876,8 +1907,18 @@
       },
       "parentComponent": {
         "key": "09e64a7b0e0d8d6b9f94b18db117256d5eb3b52e",
-        "name": "[D] CodeInput"
+        "name": "[D] CodeInput",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "09e64a7b0e0d8d6b9f94b18db117256d5eb3b52e",
+          "name": "[D] CodeInput",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "desktop"
@@ -2111,8 +2152,18 @@
       },
       "parentComponent": {
         "key": "4e45cbf3787b16d0953f56808f938aee05158b1c",
-        "name": "[M] CodeInput"
+        "name": "[M] CodeInput",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "4e45cbf3787b16d0953f56808f938aee05158b1c",
+          "name": "[M] CodeInput",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "mobile-web"
@@ -2346,8 +2397,18 @@
       },
       "parentComponent": {
         "key": "09e64a7b0e0d8d6b9f94b18db117256d5eb3b52e",
-        "name": "[D] CodeInput"
+        "name": "[D] CodeInput",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "09e64a7b0e0d8d6b9f94b18db117256d5eb3b52e",
+          "name": "[D] CodeInput",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "desktop"
@@ -3280,6 +3341,7 @@
         ]
       },
       "parentComponent": null,
+      "parentComponents": [],
       "role": "main",
       "status": "active",
       "platform": "mobile-web"
@@ -4212,6 +4274,7 @@
         ]
       },
       "parentComponent": null,
+      "parentComponents": [],
       "role": "main",
       "status": "active",
       "platform": "desktop"

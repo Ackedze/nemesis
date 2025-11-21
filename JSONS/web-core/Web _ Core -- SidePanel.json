@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2025-11-19T15:14:37.009Z",
+    "generatedAt": "2025-11-21T15:18:01.344Z",
     "version": "0.1.0",
     "files": [
       "SidePanel"
@@ -1104,8 +1104,18 @@
       },
       "parentComponent": {
         "key": "0a81eafc4753bce83743b31581e7dd542835ad6e",
-        "name": "[D] SidePanelHeader"
+        "name": "[D] SidePanelHeader",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "0a81eafc4753bce83743b31581e7dd542835ad6e",
+          "name": "[D] SidePanelHeader",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "desktop"
@@ -1537,9 +1547,19 @@
         ]
       },
       "parentComponent": {
-        "key": "4806f8e75cc2668223fa8cc3acb7e1e64ad8c74f",
-        "name": "[D] NavigationContent"
+        "key": "0a81eafc4753bce83743b31581e7dd542835ad6e",
+        "name": "[D] SidePanelHeader",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "0a81eafc4753bce83743b31581e7dd542835ad6e",
+          "name": "[D] SidePanelHeader",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "desktop"
@@ -1587,9 +1607,19 @@
         "4dda7d8cba18f1291fd4b64e5ddc6a8f80c4eea0": []
       },
       "parentComponent": {
-        "key": "4806f8e75cc2668223fa8cc3acb7e1e64ad8c74f",
-        "name": "[D] NavigationContent"
+        "key": "0a81eafc4753bce83743b31581e7dd542835ad6e",
+        "name": "[D] SidePanelHeader",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "0a81eafc4753bce83743b31581e7dd542835ad6e",
+          "name": "[D] SidePanelHeader",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "desktop"
@@ -1637,9 +1667,19 @@
         "70c5f16434dceda01ee35e15680a0d363d221f34": []
       },
       "parentComponent": {
-        "key": "4806f8e75cc2668223fa8cc3acb7e1e64ad8c74f",
-        "name": "[D] NavigationContent"
+        "key": "0a81eafc4753bce83743b31581e7dd542835ad6e",
+        "name": "[D] SidePanelHeader",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "0a81eafc4753bce83743b31581e7dd542835ad6e",
+          "name": "[D] SidePanelHeader",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "desktop"
@@ -1804,9 +1844,19 @@
         ]
       },
       "parentComponent": {
-        "key": "4806f8e75cc2668223fa8cc3acb7e1e64ad8c74f",
-        "name": "[D] NavigationContent"
+        "key": "0a81eafc4753bce83743b31581e7dd542835ad6e",
+        "name": "[D] SidePanelHeader",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "0a81eafc4753bce83743b31581e7dd542835ad6e",
+          "name": "[D] SidePanelHeader",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "desktop"
@@ -1919,9 +1969,19 @@
         ]
       },
       "parentComponent": {
-        "key": "4806f8e75cc2668223fa8cc3acb7e1e64ad8c74f",
-        "name": "[D] NavigationContent"
+        "key": "0a81eafc4753bce83743b31581e7dd542835ad6e",
+        "name": "[D] SidePanelHeader",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "0a81eafc4753bce83743b31581e7dd542835ad6e",
+          "name": "[D] SidePanelHeader",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "desktop"
@@ -1969,9 +2029,19 @@
         "6960cfb5b461fd09bdf3fa80efcef08e7cad9069": []
       },
       "parentComponent": {
-        "key": "4806f8e75cc2668223fa8cc3acb7e1e64ad8c74f",
-        "name": "[D] NavigationContent"
+        "key": "0a81eafc4753bce83743b31581e7dd542835ad6e",
+        "name": "[D] SidePanelHeader",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "0a81eafc4753bce83743b31581e7dd542835ad6e",
+          "name": "[D] SidePanelHeader",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "desktop"
@@ -2151,9 +2221,19 @@
         ]
       },
       "parentComponent": {
-        "key": "4806f8e75cc2668223fa8cc3acb7e1e64ad8c74f",
-        "name": "[D] NavigationContent"
+        "key": "0a81eafc4753bce83743b31581e7dd542835ad6e",
+        "name": "[D] SidePanelHeader",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "0a81eafc4753bce83743b31581e7dd542835ad6e",
+          "name": "[D] SidePanelHeader",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "desktop"
@@ -2212,8 +2292,18 @@
       },
       "parentComponent": {
         "key": "8aae17b288aa89ffae0d5cc08190f1baee2f95e2",
-        "name": "[D] SidePanelBody"
+        "name": "[D] SidePanelBody",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "8aae17b288aa89ffae0d5cc08190f1baee2f95e2",
+          "name": "[D] SidePanelBody",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "desktop"
@@ -4144,6 +4234,7 @@
         ]
       },
       "parentComponent": null,
+      "parentComponents": [],
       "role": "part",
       "status": "active",
       "platform": "mobile-web"
@@ -5365,6 +5456,7 @@
         ]
       },
       "parentComponent": null,
+      "parentComponents": [],
       "role": "part",
       "status": "active",
       "platform": "desktop"
@@ -6587,8 +6679,18 @@
       },
       "parentComponent": {
         "key": "dbffee2b0967c0b7bdca0af23c5029a45d247a18",
-        "name": "[D] SidePanelFooter"
+        "name": "[D] SidePanelFooter",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "dbffee2b0967c0b7bdca0af23c5029a45d247a18",
+          "name": "[D] SidePanelFooter",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "desktop"
@@ -8520,8 +8622,18 @@
       },
       "parentComponent": {
         "key": "186563ff460a82f307b98b5c0182e7379a8865b2",
-        "name": "[M] SidePanelFooter"
+        "name": "[M] SidePanelFooter",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "186563ff460a82f307b98b5c0182e7379a8865b2",
+          "name": "[M] SidePanelFooter",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "mobile-web"
@@ -8596,8 +8708,18 @@
       },
       "parentComponent": {
         "key": "1be6066de006afbeadc0fc904225a743f7ee1fe7",
-        "name": "[M] SidePanelBody"
+        "name": "[M] SidePanelBody",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "1be6066de006afbeadc0fc904225a743f7ee1fe7",
+          "name": "[M] SidePanelBody",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "mobile-web"
@@ -9033,9 +9155,19 @@
         ]
       },
       "parentComponent": {
-        "key": "b533b09f51c7731b5f949374bbf3e4979a93a5c7",
-        "name": "🔩 [M] NavigationContent"
+        "key": "b1db17dd49d091bf73e608eda049aacf250d45e0",
+        "name": "[M] SidePanelHeader",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "b1db17dd49d091bf73e608eda049aacf250d45e0",
+          "name": "[M] SidePanelHeader",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "mobile-web"
@@ -9083,9 +9215,19 @@
         "fe24bcc3ce805ee3eed3e202ca462631c8926787": []
       },
       "parentComponent": {
-        "key": "b98ac8c20b8b4a6db0a14da69a58ed8d92a6da3f",
-        "name": "🔩 [M] Navigation"
+        "key": "b1db17dd49d091bf73e608eda049aacf250d45e0",
+        "name": "[M] SidePanelHeader",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "b1db17dd49d091bf73e608eda049aacf250d45e0",
+          "name": "[M] SidePanelHeader",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "mobile-web"
@@ -9133,9 +9275,19 @@
         "5b02052abf043e7c4b34d9ba6440b226aa94a09b": []
       },
       "parentComponent": {
-        "key": "b98ac8c20b8b4a6db0a14da69a58ed8d92a6da3f",
-        "name": "🔩 [M] Navigation"
+        "key": "b1db17dd49d091bf73e608eda049aacf250d45e0",
+        "name": "[M] SidePanelHeader",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "b1db17dd49d091bf73e608eda049aacf250d45e0",
+          "name": "[M] SidePanelHeader",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "mobile-web"
@@ -9322,9 +9474,19 @@
         ]
       },
       "parentComponent": {
-        "key": "b98ac8c20b8b4a6db0a14da69a58ed8d92a6da3f",
-        "name": "🔩 [M] Navigation"
+        "key": "b1db17dd49d091bf73e608eda049aacf250d45e0",
+        "name": "[M] SidePanelHeader",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "b1db17dd49d091bf73e608eda049aacf250d45e0",
+          "name": "[M] SidePanelHeader",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "mobile-web"
@@ -9437,9 +9599,19 @@
         ]
       },
       "parentComponent": {
-        "key": "b98ac8c20b8b4a6db0a14da69a58ed8d92a6da3f",
-        "name": "🔩 [M] Navigation"
+        "key": "b1db17dd49d091bf73e608eda049aacf250d45e0",
+        "name": "[M] SidePanelHeader",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "b1db17dd49d091bf73e608eda049aacf250d45e0",
+          "name": "[M] SidePanelHeader",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "mobile-web"
@@ -9487,9 +9659,19 @@
         "d693d03cc64e32b33e402006a3f1b03ada378633": []
       },
       "parentComponent": {
-        "key": "b98ac8c20b8b4a6db0a14da69a58ed8d92a6da3f",
-        "name": "🔩 [M] Navigation"
+        "key": "b1db17dd49d091bf73e608eda049aacf250d45e0",
+        "name": "[M] SidePanelHeader",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "b1db17dd49d091bf73e608eda049aacf250d45e0",
+          "name": "[M] SidePanelHeader",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "mobile-web"
@@ -9698,9 +9880,19 @@
         ]
       },
       "parentComponent": {
-        "key": "b98ac8c20b8b4a6db0a14da69a58ed8d92a6da3f",
-        "name": "🔩 [M] Navigation"
+        "key": "b1db17dd49d091bf73e608eda049aacf250d45e0",
+        "name": "[M] SidePanelHeader",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "b1db17dd49d091bf73e608eda049aacf250d45e0",
+          "name": "[M] SidePanelHeader",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "mobile-web"
@@ -10863,8 +11055,18 @@
       },
       "parentComponent": {
         "key": "b1db17dd49d091bf73e608eda049aacf250d45e0",
-        "name": "[M] SidePanelHeader"
+        "name": "[M] SidePanelHeader",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "b1db17dd49d091bf73e608eda049aacf250d45e0",
+          "name": "[M] SidePanelHeader",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "mobile-web"
@@ -11217,6 +11419,7 @@
         ]
       },
       "parentComponent": null,
+      "parentComponents": [],
       "role": "main",
       "status": "active",
       "platform": "desktop"
@@ -11296,6 +11499,7 @@
         "8aae17b288aa89ffae0d5cc08190f1baee2f95e2": []
       },
       "parentComponent": null,
+      "parentComponents": [],
       "role": "main",
       "status": "active",
       "platform": "desktop"
@@ -11443,6 +11647,7 @@
         ]
       },
       "parentComponent": null,
+      "parentComponents": [],
       "role": "main",
       "status": "active",
       "platform": "desktop"
@@ -11818,6 +12023,7 @@
         ]
       },
       "parentComponent": null,
+      "parentComponents": [],
       "role": "main",
       "status": "active",
       "platform": "mobile-web"
@@ -11913,6 +12119,7 @@
         "1be6066de006afbeadc0fc904225a743f7ee1fe7": []
       },
       "parentComponent": null,
+      "parentComponents": [],
       "role": "main",
       "status": "active",
       "platform": "mobile-web"
@@ -12067,6 +12274,7 @@
         ]
       },
       "parentComponent": null,
+      "parentComponents": [],
       "role": "main",
       "status": "active",
       "platform": "mobile-web"

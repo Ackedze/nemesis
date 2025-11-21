@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2025-11-19T15:02:03.986Z",
+    "generatedAt": "2025-11-21T14:41:53.753Z",
     "version": "0.1.0",
     "files": [
       "ActionButton"
@@ -331,6 +331,7 @@
         ]
       },
       "parentComponent": null,
+      "parentComponents": [],
       "role": "main",
       "status": "active",
       "platform": "universal"

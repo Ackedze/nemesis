@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2025-11-19T15:15:05.985Z",
+    "generatedAt": "2025-11-21T15:18:55.981Z",
     "version": "0.1.0",
     "files": [
       "Tooltip"
@@ -62,6 +62,7 @@
         "1fc300f8f62f4136106067e52b9ca2941a133007": []
       },
       "parentComponent": null,
+      "parentComponents": [],
       "role": "part",
       "status": "active",
       "platform": "mobile-web"
@@ -156,8 +157,18 @@
       },
       "parentComponent": {
         "key": "c863abcc29ea557cc2c7f085b95b3f683e3008b0",
-        "name": "Tooltip"
+        "name": "Tooltip",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "c863abcc29ea557cc2c7f085b95b3f683e3008b0",
+          "name": "Tooltip",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "desktop"
@@ -252,8 +263,18 @@
       },
       "parentComponent": {
         "key": "c863abcc29ea557cc2c7f085b95b3f683e3008b0",
-        "name": "Tooltip"
+        "name": "Tooltip",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "c863abcc29ea557cc2c7f085b95b3f683e3008b0",
+          "name": "Tooltip",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "desktop"
@@ -348,8 +369,18 @@
       },
       "parentComponent": {
         "key": "c863abcc29ea557cc2c7f085b95b3f683e3008b0",
-        "name": "Tooltip"
+        "name": "Tooltip",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "c863abcc29ea557cc2c7f085b95b3f683e3008b0",
+          "name": "Tooltip",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "desktop"
@@ -444,8 +475,18 @@
       },
       "parentComponent": {
         "key": "c863abcc29ea557cc2c7f085b95b3f683e3008b0",
-        "name": "Tooltip"
+        "name": "Tooltip",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "c863abcc29ea557cc2c7f085b95b3f683e3008b0",
+          "name": "Tooltip",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "desktop"
@@ -540,8 +581,18 @@
       },
       "parentComponent": {
         "key": "c863abcc29ea557cc2c7f085b95b3f683e3008b0",
-        "name": "Tooltip"
+        "name": "Tooltip",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "c863abcc29ea557cc2c7f085b95b3f683e3008b0",
+          "name": "Tooltip",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "desktop"
@@ -636,8 +687,18 @@
       },
       "parentComponent": {
         "key": "c863abcc29ea557cc2c7f085b95b3f683e3008b0",
-        "name": "Tooltip"
+        "name": "Tooltip",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "c863abcc29ea557cc2c7f085b95b3f683e3008b0",
+          "name": "Tooltip",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "desktop"
@@ -732,8 +793,18 @@
       },
       "parentComponent": {
         "key": "c863abcc29ea557cc2c7f085b95b3f683e3008b0",
-        "name": "Tooltip"
+        "name": "Tooltip",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "c863abcc29ea557cc2c7f085b95b3f683e3008b0",
+          "name": "Tooltip",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "desktop"
@@ -828,8 +899,18 @@
       },
       "parentComponent": {
         "key": "c863abcc29ea557cc2c7f085b95b3f683e3008b0",
-        "name": "Tooltip"
+        "name": "Tooltip",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "c863abcc29ea557cc2c7f085b95b3f683e3008b0",
+          "name": "Tooltip",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "desktop"
@@ -924,8 +1005,18 @@
       },
       "parentComponent": {
         "key": "c863abcc29ea557cc2c7f085b95b3f683e3008b0",
-        "name": "Tooltip"
+        "name": "Tooltip",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "c863abcc29ea557cc2c7f085b95b3f683e3008b0",
+          "name": "Tooltip",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "desktop"
@@ -1020,8 +1111,18 @@
       },
       "parentComponent": {
         "key": "c863abcc29ea557cc2c7f085b95b3f683e3008b0",
-        "name": "Tooltip"
+        "name": "Tooltip",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "c863abcc29ea557cc2c7f085b95b3f683e3008b0",
+          "name": "Tooltip",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "desktop"
@@ -1116,8 +1217,18 @@
       },
       "parentComponent": {
         "key": "c863abcc29ea557cc2c7f085b95b3f683e3008b0",
-        "name": "Tooltip"
+        "name": "Tooltip",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "c863abcc29ea557cc2c7f085b95b3f683e3008b0",
+          "name": "Tooltip",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "desktop"
@@ -1212,8 +1323,18 @@
       },
       "parentComponent": {
         "key": "c863abcc29ea557cc2c7f085b95b3f683e3008b0",
-        "name": "Tooltip"
+        "name": "Tooltip",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "c863abcc29ea557cc2c7f085b95b3f683e3008b0",
+          "name": "Tooltip",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "desktop"
@@ -1308,8 +1429,18 @@
       },
       "parentComponent": {
         "key": "c863abcc29ea557cc2c7f085b95b3f683e3008b0",
-        "name": "Tooltip"
+        "name": "Tooltip",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "c863abcc29ea557cc2c7f085b95b3f683e3008b0",
+          "name": "Tooltip",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "desktop"
@@ -1404,8 +1535,18 @@
       },
       "parentComponent": {
         "key": "c863abcc29ea557cc2c7f085b95b3f683e3008b0",
-        "name": "Tooltip"
+        "name": "Tooltip",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "c863abcc29ea557cc2c7f085b95b3f683e3008b0",
+          "name": "Tooltip",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "desktop"
@@ -1500,8 +1641,18 @@
       },
       "parentComponent": {
         "key": "c863abcc29ea557cc2c7f085b95b3f683e3008b0",
-        "name": "Tooltip"
+        "name": "Tooltip",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "c863abcc29ea557cc2c7f085b95b3f683e3008b0",
+          "name": "Tooltip",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "desktop"
@@ -1596,8 +1747,18 @@
       },
       "parentComponent": {
         "key": "c863abcc29ea557cc2c7f085b95b3f683e3008b0",
-        "name": "Tooltip"
+        "name": "Tooltip",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "c863abcc29ea557cc2c7f085b95b3f683e3008b0",
+          "name": "Tooltip",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "desktop"
@@ -1702,8 +1863,18 @@
       },
       "parentComponent": {
         "key": "c863abcc29ea557cc2c7f085b95b3f683e3008b0",
-        "name": "Tooltip"
+        "name": "Tooltip",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "c863abcc29ea557cc2c7f085b95b3f683e3008b0",
+          "name": "Tooltip",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "desktop"
@@ -1808,8 +1979,18 @@
       },
       "parentComponent": {
         "key": "c863abcc29ea557cc2c7f085b95b3f683e3008b0",
-        "name": "Tooltip"
+        "name": "Tooltip",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "c863abcc29ea557cc2c7f085b95b3f683e3008b0",
+          "name": "Tooltip",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "desktop"
@@ -1914,8 +2095,18 @@
       },
       "parentComponent": {
         "key": "c863abcc29ea557cc2c7f085b95b3f683e3008b0",
-        "name": "Tooltip"
+        "name": "Tooltip",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "c863abcc29ea557cc2c7f085b95b3f683e3008b0",
+          "name": "Tooltip",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "desktop"
@@ -2020,8 +2211,18 @@
       },
       "parentComponent": {
         "key": "c863abcc29ea557cc2c7f085b95b3f683e3008b0",
-        "name": "Tooltip"
+        "name": "Tooltip",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "c863abcc29ea557cc2c7f085b95b3f683e3008b0",
+          "name": "Tooltip",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "desktop"
@@ -2849,6 +3050,7 @@
         ]
       },
       "parentComponent": null,
+      "parentComponents": [],
       "role": "main",
       "status": "active",
       "platform": "universal"

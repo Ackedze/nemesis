@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2025-11-19T15:16:30.048Z",
+    "generatedAt": "2025-11-21T15:23:02.989Z",
     "version": "0.1.0",
     "files": [
       "Link"
@@ -83,8 +83,18 @@
       },
       "parentComponent": {
         "key": "c1a788fea95f376b3c344b85ce006493b530db94",
-        "name": "Link"
+        "name": "Link",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "c1a788fea95f376b3c344b85ce006493b530db94",
+          "name": "Link",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "universal"
@@ -784,6 +794,7 @@
         ]
       },
       "parentComponent": null,
+      "parentComponents": [],
       "role": "main",
       "status": "active",
       "platform": "universal"

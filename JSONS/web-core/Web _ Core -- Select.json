@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2025-11-19T15:11:19.318Z",
+    "generatedAt": "2025-11-21T15:11:26.524Z",
     "version": "0.1.0",
     "files": [
       "Select"
@@ -16623,6 +16623,7 @@
         ]
       },
       "parentComponent": null,
+      "parentComponents": [],
       "role": "main",
       "status": "active",
       "platform": "desktop"
@@ -33239,6 +33240,7 @@
         ]
       },
       "parentComponent": null,
+      "parentComponents": [],
       "role": "main",
       "status": "active",
       "platform": "desktop"
@@ -33313,8 +33315,60 @@
       },
       "parentComponent": {
         "key": "8e53b8b8b2ff2745adc2d7eb265cec9a3aa14f8b",
-        "name": "[D][Corporate] Select_Inverted"
+        "name": "[D][Corporate] Select_Inverted",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "8e53b8b8b2ff2745adc2d7eb265cec9a3aa14f8b",
+          "name": "[D][Corporate] Select_Inverted",
+          "role": "main",
+          "status": "active"
+        },
+        {
+          "key": "4fcfd31fbae20f4f4810be45702afd870c631f71",
+          "name": "[D][Corporate] Select",
+          "role": "main",
+          "status": "active"
+        },
+        {
+          "key": "51bcc11efd1cc386a9725bf43db1eacfad1e8284",
+          "name": "[M][AO] Select_Inverted",
+          "role": "main",
+          "status": "active"
+        },
+        {
+          "key": "0aff997af8794f42fa7514fbc95830fafaad601c",
+          "name": "[M][AO] Select",
+          "role": "main",
+          "status": "active"
+        },
+        {
+          "key": "789bbeee4bcac387ff98faa4af59a241dc2dc08b",
+          "name": "[M] Select_Inverted",
+          "role": "main",
+          "status": "active"
+        },
+        {
+          "key": "f5d1aa27a5a844ebe7c82f28f8bd038e5987de0c",
+          "name": "[M] Select",
+          "role": "main",
+          "status": "active"
+        },
+        {
+          "key": "f7a27c9c11fe989fc5628198a49e946eaae3ae20",
+          "name": "[D] Select_Inverted",
+          "role": "main",
+          "status": "active"
+        },
+        {
+          "key": "42d1667ee48223266b727ff3f9bcd7e4608acbbc",
+          "name": "[D] Select",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "universal"
@@ -33389,8 +33443,60 @@
       },
       "parentComponent": {
         "key": "8e53b8b8b2ff2745adc2d7eb265cec9a3aa14f8b",
-        "name": "[D][Corporate] Select_Inverted"
+        "name": "[D][Corporate] Select_Inverted",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "8e53b8b8b2ff2745adc2d7eb265cec9a3aa14f8b",
+          "name": "[D][Corporate] Select_Inverted",
+          "role": "main",
+          "status": "active"
+        },
+        {
+          "key": "4fcfd31fbae20f4f4810be45702afd870c631f71",
+          "name": "[D][Corporate] Select",
+          "role": "main",
+          "status": "active"
+        },
+        {
+          "key": "51bcc11efd1cc386a9725bf43db1eacfad1e8284",
+          "name": "[M][AO] Select_Inverted",
+          "role": "main",
+          "status": "active"
+        },
+        {
+          "key": "0aff997af8794f42fa7514fbc95830fafaad601c",
+          "name": "[M][AO] Select",
+          "role": "main",
+          "status": "active"
+        },
+        {
+          "key": "789bbeee4bcac387ff98faa4af59a241dc2dc08b",
+          "name": "[M] Select_Inverted",
+          "role": "main",
+          "status": "active"
+        },
+        {
+          "key": "f5d1aa27a5a844ebe7c82f28f8bd038e5987de0c",
+          "name": "[M] Select",
+          "role": "main",
+          "status": "active"
+        },
+        {
+          "key": "f7a27c9c11fe989fc5628198a49e946eaae3ae20",
+          "name": "[D] Select_Inverted",
+          "role": "main",
+          "status": "active"
+        },
+        {
+          "key": "42d1667ee48223266b727ff3f9bcd7e4608acbbc",
+          "name": "[D] Select",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "universal"
@@ -33465,8 +33571,60 @@
       },
       "parentComponent": {
         "key": "8e53b8b8b2ff2745adc2d7eb265cec9a3aa14f8b",
-        "name": "[D][Corporate] Select_Inverted"
+        "name": "[D][Corporate] Select_Inverted",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "8e53b8b8b2ff2745adc2d7eb265cec9a3aa14f8b",
+          "name": "[D][Corporate] Select_Inverted",
+          "role": "main",
+          "status": "active"
+        },
+        {
+          "key": "4fcfd31fbae20f4f4810be45702afd870c631f71",
+          "name": "[D][Corporate] Select",
+          "role": "main",
+          "status": "active"
+        },
+        {
+          "key": "51bcc11efd1cc386a9725bf43db1eacfad1e8284",
+          "name": "[M][AO] Select_Inverted",
+          "role": "main",
+          "status": "active"
+        },
+        {
+          "key": "0aff997af8794f42fa7514fbc95830fafaad601c",
+          "name": "[M][AO] Select",
+          "role": "main",
+          "status": "active"
+        },
+        {
+          "key": "789bbeee4bcac387ff98faa4af59a241dc2dc08b",
+          "name": "[M] Select_Inverted",
+          "role": "main",
+          "status": "active"
+        },
+        {
+          "key": "f5d1aa27a5a844ebe7c82f28f8bd038e5987de0c",
+          "name": "[M] Select",
+          "role": "main",
+          "status": "active"
+        },
+        {
+          "key": "f7a27c9c11fe989fc5628198a49e946eaae3ae20",
+          "name": "[D] Select_Inverted",
+          "role": "main",
+          "status": "active"
+        },
+        {
+          "key": "42d1667ee48223266b727ff3f9bcd7e4608acbbc",
+          "name": "[D] Select",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "universal"
@@ -33541,8 +33699,60 @@
       },
       "parentComponent": {
         "key": "8e53b8b8b2ff2745adc2d7eb265cec9a3aa14f8b",
-        "name": "[D][Corporate] Select_Inverted"
+        "name": "[D][Corporate] Select_Inverted",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "8e53b8b8b2ff2745adc2d7eb265cec9a3aa14f8b",
+          "name": "[D][Corporate] Select_Inverted",
+          "role": "main",
+          "status": "active"
+        },
+        {
+          "key": "4fcfd31fbae20f4f4810be45702afd870c631f71",
+          "name": "[D][Corporate] Select",
+          "role": "main",
+          "status": "active"
+        },
+        {
+          "key": "51bcc11efd1cc386a9725bf43db1eacfad1e8284",
+          "name": "[M][AO] Select_Inverted",
+          "role": "main",
+          "status": "active"
+        },
+        {
+          "key": "0aff997af8794f42fa7514fbc95830fafaad601c",
+          "name": "[M][AO] Select",
+          "role": "main",
+          "status": "active"
+        },
+        {
+          "key": "789bbeee4bcac387ff98faa4af59a241dc2dc08b",
+          "name": "[M] Select_Inverted",
+          "role": "main",
+          "status": "active"
+        },
+        {
+          "key": "f5d1aa27a5a844ebe7c82f28f8bd038e5987de0c",
+          "name": "[M] Select",
+          "role": "main",
+          "status": "active"
+        },
+        {
+          "key": "f7a27c9c11fe989fc5628198a49e946eaae3ae20",
+          "name": "[D] Select_Inverted",
+          "role": "main",
+          "status": "active"
+        },
+        {
+          "key": "42d1667ee48223266b727ff3f9bcd7e4608acbbc",
+          "name": "[D] Select",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "universal"
@@ -49998,6 +50208,7 @@
         ]
       },
       "parentComponent": null,
+      "parentComponents": [],
       "role": "main",
       "status": "active",
       "platform": "mobile-web"
@@ -66468,6 +66679,7 @@
         ]
       },
       "parentComponent": null,
+      "parentComponents": [],
       "role": "main",
       "status": "active",
       "platform": "mobile-web"
@@ -83070,6 +83282,7 @@
         ]
       },
       "parentComponent": null,
+      "parentComponents": [],
       "role": "main",
       "status": "active",
       "platform": "mobile-web"
@@ -99558,6 +99771,7 @@
         ]
       },
       "parentComponent": null,
+      "parentComponents": [],
       "role": "main",
       "status": "active",
       "platform": "mobile-web"
@@ -116175,6 +116389,7 @@
         ]
       },
       "parentComponent": null,
+      "parentComponents": [],
       "role": "main",
       "status": "active",
       "platform": "desktop"
@@ -132819,6 +133034,7 @@
         ]
       },
       "parentComponent": null,
+      "parentComponents": [],
       "role": "main",
       "status": "active",
       "platform": "desktop"

@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2025-11-20T06:19:31.443Z",
+    "generatedAt": "2025-11-21T07:31:13.730Z",
     "version": "0.1.0",
     "files": [
       "AmountStyles"
@@ -77,8 +77,30 @@
       },
       "parentComponent": {
         "key": "cee3a597980650c3d43dbe8bf283d2c4f6c1507e",
-        "name": "🔒 [M] AmountHeadline"
+        "name": "🔒 [M] AmountHeadline",
+        "role": "main",
+        "status": "active"
       },
+      "parentComponents": [
+        {
+          "key": "cee3a597980650c3d43dbe8bf283d2c4f6c1507e",
+          "name": "🔒 [M] AmountHeadline",
+          "role": "main",
+          "status": "active"
+        },
+        {
+          "key": "46d9453084998704a7c26aefd8c2d4427e3a4f5c",
+          "name": "🔒 [D] AmountHeadline",
+          "role": "main",
+          "status": "active"
+        },
+        {
+          "key": "6276f825ec9ee2ceded5305171c715a7dd73637e",
+          "name": "🔒 AmountParagraph",
+          "role": "main",
+          "status": "active"
+        }
+      ],
       "role": "part",
       "status": "active",
       "platform": "universal"
@@ -626,6 +648,7 @@
         ]
       },
       "parentComponent": null,
+      "parentComponents": [],
       "role": "main",
       "status": "active",
       "platform": "mobile-web"
@@ -1173,6 +1196,7 @@
         ]
       },
       "parentComponent": null,
+      "parentComponents": [],
       "role": "main",
       "status": "active",
       "platform": "desktop"
@@ -1932,6 +1956,7 @@
         ]
       },
       "parentComponent": null,
+      "parentComponents": [],
       "role": "main",
       "status": "active",
       "platform": "universal"

@@ -2,8 +2,8 @@
   "baseUrl": "https://ackedze.github.io/nemesis/JSONS/",
   "catalogs": [
     {
-      "fileName": "Icons.json",
-      "path": "Icons.json"
+      "fileName": "components/Icons.json",
+      "path": "components/Icons.json"
     },
     {
       "fileName": "components/Logotypes-deprecated-logotype.json",

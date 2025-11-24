@@ -6,432 +6,484 @@
       "path": "Icons.json"
     },
     {
-      "fileName": "Logotypes-deprecated-logotype.json",
-      "path": "Logotypes-deprecated-logotype.json"
+      "fileName": "components/Logotypes-deprecated-logotype.json",
+      "path": "components/Logotypes-deprecated-logotype.json"
     },
     {
-      "fileName": "Logotypes-general-logo.json",
-      "path": "Logotypes-general-logo.json"
+      "fileName": "components/Logotypes-general-logo.json",
+      "path": "components/Logotypes-general-logo.json"
     },
     {
-      "fileName": "Logotypes-logo-corp.json",
-      "path": "Logotypes-logo-corp.json"
+      "fileName": "components/Logotypes-logo-corp.json",
+      "path": "components/Logotypes-logo-corp.json"
     },
     {
-      "fileName": "Spacing.json",
-      "path": "Spacing.json"
+      "fileName": "components/Spacing.json",
+      "path": "components/Spacing.json"
     },
     {
-      "fileName": "Web-Core-Authentication.json",
-      "path": "Web-Core-Authentication.json"
+      "fileName": "components/Web-Core-Authentication.json",
+      "path": "components/Web-Core-Authentication.json"
     },
     {
-      "fileName": "Web-Core-File-Upload.json",
-      "path": "Web-Core-File-Upload.json"
+      "fileName": "components/Web-Core-File-Upload.json",
+      "path": "components/Web-Core-File-Upload.json"
     },
     {
-      "fileName": "Web-Core-Misc.json",
-      "path": "Web-Core-Misc.json"
+      "fileName": "components/Web-Core-Misc.json",
+      "path": "components/Web-Core-Misc.json"
     },
     {
-      "fileName": "Web-Core-Navigation.json",
-      "path": "Web-Core-Navigation.json"
+      "fileName": "components/Web-Core-Navigation.json",
+      "path": "components/Web-Core-Navigation.json"
     },
     {
-      "fileName": "Web-Core-Notification.json",
-      "path": "Web-Core-Notification.json"
+      "fileName": "components/Web-Core-Notification.json",
+      "path": "components/Web-Core-Notification.json"
     },
     {
-      "fileName": "Web-Core-Pickers-Calendar.json",
-      "path": "Web-Core-Pickers-Calendar.json"
+      "fileName": "components/Web-Core-Pickers-Calendar.json",
+      "path": "components/Web-Core-Pickers-Calendar.json"
     },
     {
-      "fileName": "Web-Core-ProgressBars.json",
-      "path": "Web-Core-ProgressBars.json"
+      "fileName": "components/Web-Core-ProgressBars.json",
+      "path": "components/Web-Core-ProgressBars.json"
     },
     {
-      "fileName": "Web-Core-Wrappers.json",
-      "path": "Web-Core-Wrappers.json"
+      "fileName": "components/Web-Core-Wrappers.json",
+      "path": "components/Web-Core-Wrappers.json"
     },
     {
-      "fileName": "web-core/Web _ Core -- ActionButton.json",
-      "path": "web-core/Web _ Core -- ActionButton.json"
+      "fileName": "components/web-core/Web _ Core -- ActionButton.json",
+      "path": "components/web-core/Web _ Core -- ActionButton.json"
     },
     {
-      "fileName": "web-core/Web _ Core -- Amount.json",
-      "path": "web-core/Web _ Core -- Amount.json"
+      "fileName": "components/web-core/Web _ Core -- Amount.json",
+      "path": "components/web-core/Web _ Core -- Amount.json"
     },
     {
-      "fileName": "web-core/Web _ Core -- AmountInput.json",
-      "path": "web-core/Web _ Core -- AmountInput.json"
+      "fileName": "components/web-core/Web _ Core -- AmountInput.json",
+      "path": "components/web-core/Web _ Core -- AmountInput.json"
     },
     {
-      "fileName": "web-core/Web _ Core -- BottomSheet.json",
-      "path": "web-core/Web _ Core -- BottomSheet.json"
+      "fileName": "components/web-core/Web _ Core -- BottomSheet.json",
+      "path": "components/web-core/Web _ Core -- BottomSheet.json"
     },
     {
-      "fileName": "web-core/Web _ Core -- Button.json",
-      "path": "web-core/Web _ Core -- Button.json"
+      "fileName": "components/web-core/Web _ Core -- Button.json",
+      "path": "components/web-core/Web _ Core -- Button.json"
     },
     {
-      "fileName": "web-core/Web _ Core -- Checkbox.json",
-      "path": "web-core/Web _ Core -- Checkbox.json"
+      "fileName": "components/web-core/Web _ Core -- Checkbox.json",
+      "path": "components/web-core/Web _ Core -- Checkbox.json"
     },
     {
-      "fileName": "web-core/Web _ Core -- CheckboxGroup.json",
-      "path": "web-core/Web _ Core -- CheckboxGroup.json"
+      "fileName": "components/web-core/Web _ Core -- CheckboxGroup.json",
+      "path": "components/web-core/Web _ Core -- CheckboxGroup.json"
     },
     {
-      "fileName": "web-core/Web _ Core -- CodeInput.json",
-      "path": "web-core/Web _ Core -- CodeInput.json"
+      "fileName": "components/web-core/Web _ Core -- CodeInput.json",
+      "path": "components/web-core/Web _ Core -- CodeInput.json"
     },
     {
-      "fileName": "web-core/Web _ Core -- CustomButton.json",
-      "path": "web-core/Web _ Core -- CustomButton.json"
+      "fileName": "components/web-core/Web _ Core -- CustomButton.json",
+      "path": "components/web-core/Web _ Core -- CustomButton.json"
     },
     {
-      "fileName": "web-core/Web _ Core -- Divider.json",
-      "path": "web-core/Web _ Core -- Divider.json"
+      "fileName": "components/web-core/Web _ Core -- Divider.json",
+      "path": "components/web-core/Web _ Core -- Divider.json"
     },
     {
-      "fileName": "web-core/Web _ Core -- FilterButton.json",
-      "path": "web-core/Web _ Core -- FilterButton.json"
+      "fileName": "components/web-core/Web _ Core -- FilterButton.json",
+      "path": "components/web-core/Web _ Core -- FilterButton.json"
     },
     {
-      "fileName": "web-core/Web _ Core -- FilterTag.json",
-      "path": "web-core/Web _ Core -- FilterTag.json"
+      "fileName": "components/web-core/Web _ Core -- FilterTag.json",
+      "path": "components/web-core/Web _ Core -- FilterTag.json"
     },
     {
-      "fileName": "web-core/Web _ Core -- IconButton.json",
-      "path": "web-core/Web _ Core -- IconButton.json"
+      "fileName": "components/web-core/Web _ Core -- IconButton.json",
+      "path": "components/web-core/Web _ Core -- IconButton.json"
     },
     {
-      "fileName": "web-core/Web _ Core -- IconView.json",
-      "path": "web-core/Web _ Core -- IconView.json"
+      "fileName": "components/web-core/Web _ Core -- IconView.json",
+      "path": "components/web-core/Web _ Core -- IconView.json"
     },
     {
-      "fileName": "web-core/Web _ Core -- Indicator.json",
-      "path": "web-core/Web _ Core -- Indicator.json"
+      "fileName": "components/web-core/Web _ Core -- Indicator.json",
+      "path": "components/web-core/Web _ Core -- Indicator.json"
     },
     {
-      "fileName": "web-core/Web _ Core -- Input.json",
-      "path": "web-core/Web _ Core -- Input.json"
+      "fileName": "components/web-core/Web _ Core -- Input.json",
+      "path": "components/web-core/Web _ Core -- Input.json"
     },
     {
-      "fileName": "web-core/Web _ Core -- InternationalPhoneInput.json",
-      "path": "web-core/Web _ Core -- InternationalPhoneInput.json"
+      "fileName": "components/web-core/Web _ Core -- InternationalPhoneInput.json",
+      "path": "components/web-core/Web _ Core -- InternationalPhoneInput.json"
     },
     {
-      "fileName": "web-core/Web _ Core -- Link.json",
-      "path": "web-core/Web _ Core -- Link.json"
+      "fileName": "components/web-core/Web _ Core -- Link.json",
+      "path": "components/web-core/Web _ Core -- Link.json"
     },
     {
-      "fileName": "web-core/Web _ Core -- List.json",
-      "path": "web-core/Web _ Core -- List.json"
+      "fileName": "components/web-core/Web _ Core -- List.json",
+      "path": "components/web-core/Web _ Core -- List.json"
     },
     {
-      "fileName": "web-core/Web _ Core -- Markdown.json",
-      "path": "web-core/Web _ Core -- Markdown.json"
+      "fileName": "components/web-core/Web _ Core -- Markdown.json",
+      "path": "components/web-core/Web _ Core -- Markdown.json"
     },
     {
-      "fileName": "web-core/Web _ Core -- MasterInput.json",
-      "path": "web-core/Web _ Core -- MasterInput.json"
+      "fileName": "components/web-core/Web _ Core -- MasterInput.json",
+      "path": "components/web-core/Web _ Core -- MasterInput.json"
     },
     {
-      "fileName": "web-core/Web _ Core -- Modal.json",
-      "path": "web-core/Web _ Core -- Modal.json"
+      "fileName": "components/web-core/Web _ Core -- Modal.json",
+      "path": "components/web-core/Web _ Core -- Modal.json"
     },
     {
-      "fileName": "web-core/Web _ Core -- NumberInput.json",
-      "path": "web-core/Web _ Core -- NumberInput.json"
+      "fileName": "components/web-core/Web _ Core -- NumberInput.json",
+      "path": "components/web-core/Web _ Core -- NumberInput.json"
     },
     {
-      "fileName": "web-core/Web _ Core -- OptionsList.json",
-      "path": "web-core/Web _ Core -- OptionsList.json"
+      "fileName": "components/web-core/Web _ Core -- OptionsList.json",
+      "path": "components/web-core/Web _ Core -- OptionsList.json"
     },
     {
-      "fileName": "web-core/Web _ Core -- PopupSheet.json",
-      "path": "web-core/Web _ Core -- PopupSheet.json"
+      "fileName": "components/web-core/Web _ Core -- PopupSheet.json",
+      "path": "components/web-core/Web _ Core -- PopupSheet.json"
     },
     {
-      "fileName": "web-core/Web _ Core -- ProductCover.json",
-      "path": "web-core/Web _ Core -- ProductCover.json"
+      "fileName": "components/web-core/Web _ Core -- ProductCover.json",
+      "path": "components/web-core/Web _ Core -- ProductCover.json"
     },
     {
-      "fileName": "web-core/Web _ Core -- Radio.json",
-      "path": "web-core/Web _ Core -- Radio.json"
+      "fileName": "components/web-core/Web _ Core -- Radio.json",
+      "path": "components/web-core/Web _ Core -- Radio.json"
     },
     {
-      "fileName": "web-core/Web _ Core -- RadioGroup.json",
-      "path": "web-core/Web _ Core -- RadioGroup.json"
+      "fileName": "components/web-core/Web _ Core -- RadioGroup.json",
+      "path": "components/web-core/Web _ Core -- RadioGroup.json"
     },
     {
-      "fileName": "web-core/Web _ Core -- ScrollBar.json",
-      "path": "web-core/Web _ Core -- ScrollBar.json"
+      "fileName": "components/web-core/Web _ Core -- ScrollBar.json",
+      "path": "components/web-core/Web _ Core -- ScrollBar.json"
     },
     {
-      "fileName": "web-core/Web _ Core -- SegmentedControl.json",
-      "path": "web-core/Web _ Core -- SegmentedControl.json"
+      "fileName": "components/web-core/Web _ Core -- SegmentedControl.json",
+      "path": "components/web-core/Web _ Core -- SegmentedControl.json"
     },
     {
-      "fileName": "web-core/Web _ Core -- Select.json",
-      "path": "web-core/Web _ Core -- Select.json"
+      "fileName": "components/web-core/Web _ Core -- Select.json",
+      "path": "components/web-core/Web _ Core -- Select.json"
     },
     {
-      "fileName": "web-core/Web _ Core -- SelectWithTags.json",
-      "path": "web-core/Web _ Core -- SelectWithTags.json"
+      "fileName": "components/web-core/Web _ Core -- SelectWithTags.json",
+      "path": "components/web-core/Web _ Core -- SelectWithTags.json"
     },
     {
-      "fileName": "web-core/Web _ Core -- SidePanel.json",
-      "path": "web-core/Web _ Core -- SidePanel.json"
+      "fileName": "components/web-core/Web _ Core -- SidePanel.json",
+      "path": "components/web-core/Web _ Core -- SidePanel.json"
     },
     {
-      "fileName": "web-core/Web _ Core -- Skeleton.json",
-      "path": "web-core/Web _ Core -- Skeleton.json"
+      "fileName": "components/web-core/Web _ Core -- Skeleton.json",
+      "path": "components/web-core/Web _ Core -- Skeleton.json"
     },
     {
-      "fileName": "web-core/Web _ Core -- Slider.json",
-      "path": "web-core/Web _ Core -- Slider.json"
+      "fileName": "components/web-core/Web _ Core -- Slider.json",
+      "path": "components/web-core/Web _ Core -- Slider.json"
     },
     {
-      "fileName": "web-core/Web _ Core -- SliderInput.json",
-      "path": "web-core/Web _ Core -- SliderInput.json"
+      "fileName": "components/web-core/Web _ Core -- SliderInput.json",
+      "path": "components/web-core/Web _ Core -- SliderInput.json"
     },
     {
-      "fileName": "web-core/Web _ Core -- Spinner.json",
-      "path": "web-core/Web _ Core -- Spinner.json"
+      "fileName": "components/web-core/Web _ Core -- Spinner.json",
+      "path": "components/web-core/Web _ Core -- Spinner.json"
     },
     {
-      "fileName": "web-core/Web _ Core -- Status.json",
-      "path": "web-core/Web _ Core -- Status.json"
+      "fileName": "components/web-core/Web _ Core -- Status.json",
+      "path": "components/web-core/Web _ Core -- Status.json"
     },
     {
-      "fileName": "web-core/Web _ Core -- StatusBadge.json",
-      "path": "web-core/Web _ Core -- StatusBadge.json"
+      "fileName": "components/web-core/Web _ Core -- StatusBadge.json",
+      "path": "components/web-core/Web _ Core -- StatusBadge.json"
     },
     {
-      "fileName": "web-core/Web _ Core -- Switch.json",
-      "path": "web-core/Web _ Core -- Switch.json"
+      "fileName": "components/web-core/Web _ Core -- Switch.json",
+      "path": "components/web-core/Web _ Core -- Switch.json"
     },
     {
-      "fileName": "web-core/Web _ Core -- Tag.json",
-      "path": "web-core/Web _ Core -- Tag.json"
+      "fileName": "components/web-core/Web _ Core -- Tag.json",
+      "path": "components/web-core/Web _ Core -- Tag.json"
     },
     {
-      "fileName": "web-core/Web _ Core -- TagGroup.json",
-      "path": "web-core/Web _ Core -- TagGroup.json"
+      "fileName": "components/web-core/Web _ Core -- TagGroup.json",
+      "path": "components/web-core/Web _ Core -- TagGroup.json"
     },
     {
-      "fileName": "web-core/Web _ Core -- Text.json",
-      "path": "web-core/Web _ Core -- Text.json"
+      "fileName": "components/web-core/Web _ Core -- Text.json",
+      "path": "components/web-core/Web _ Core -- Text.json"
     },
     {
-      "fileName": "web-core/Web _ Core -- Tooltip.json",
-      "path": "web-core/Web _ Core -- Tooltip.json"
+      "fileName": "components/web-core/Web _ Core -- Tooltip.json",
+      "path": "components/web-core/Web _ Core -- Tooltip.json"
     },
     {
-      "fileName": "web-core/Web _ Core -- UniversalDateInput.json",
-      "path": "web-core/Web _ Core -- UniversalDateInput.json"
+      "fileName": "components/web-core/Web _ Core -- UniversalDateInput.json",
+      "path": "components/web-core/Web _ Core -- UniversalDateInput.json"
     },
     {
-      "fileName": "web-core/Web _ Core -- UniversalModal.json",
-      "path": "web-core/Web _ Core -- UniversalModal.json"
+      "fileName": "components/web-core/Web _ Core -- UniversalModal.json",
+      "path": "components/web-core/Web _ Core -- UniversalModal.json"
     },
     {
-      "fileName": "web-core/Web _ Core -- WebView.json",
-      "path": "web-core/Web _ Core -- WebView.json"
+      "fileName": "components/web-core/Web _ Core -- WebView.json",
+      "path": "components/web-core/Web _ Core -- WebView.json"
     },
     {
-      "fileName": "web-corp-promo/Web _ Сorp Promo Components -- BenefitCard.json",
-      "path": "web-corp-promo/Web _ Сorp Promo Components -- BenefitCard.json"
+      "fileName": "components/web-corp-promo/Web _ Сorp Promo Components -- BenefitCard.json",
+      "path": "components/web-corp-promo/Web _ Сorp Promo Components -- BenefitCard.json"
     },
     {
-      "fileName": "web-corp-promo/Web _ Сorp Promo Components -- BenefitsBlock.json",
-      "path": "web-corp-promo/Web _ Сorp Promo Components -- BenefitsBlock.json"
+      "fileName": "components/web-corp-promo/Web _ Сorp Promo Components -- BenefitsBlock.json",
+      "path": "components/web-corp-promo/Web _ Сorp Promo Components -- BenefitsBlock.json"
     },
     {
-      "fileName": "web-corp-promo/Web _ Сorp Promo Components -- PromoCard.json",
-      "path": "web-corp-promo/Web _ Сorp Promo Components -- PromoCard.json"
+      "fileName": "components/web-corp-promo/Web _ Сorp Promo Components -- PromoCard.json",
+      "path": "components/web-corp-promo/Web _ Сorp Promo Components -- PromoCard.json"
     },
     {
-      "fileName": "web-corp-promo/Web _ Сorp Promo Components -- PromoMainBlock.json",
-      "path": "web-corp-promo/Web _ Сorp Promo Components -- PromoMainBlock.json"
+      "fileName": "components/web-corp-promo/Web _ Сorp Promo Components -- PromoMainBlock.json",
+      "path": "components/web-corp-promo/Web _ Сorp Promo Components -- PromoMainBlock.json"
     },
     {
-      "fileName": "web-corp-promo/Web _ Сorp Promo Components -- PromoTableView.json",
-      "path": "web-corp-promo/Web _ Сorp Promo Components -- PromoTableView.json"
+      "fileName": "components/web-corp-promo/Web _ Сorp Promo Components -- PromoTableView.json",
+      "path": "components/web-corp-promo/Web _ Сorp Promo Components -- PromoTableView.json"
     },
     {
-      "fileName": "web-corp/Web _ Corp Components -- AccountSelect.json",
-      "path": "web-corp/Web _ Corp Components -- AccountSelect.json"
+      "fileName": "components/web-corp/Web _ Corp Components -- AccountSelect.json",
+      "path": "components/web-corp/Web _ Corp Components -- AccountSelect.json"
     },
     {
-      "fileName": "web-corp/Web _ Corp Components -- AmountStyles.json",
-      "path": "web-corp/Web _ Corp Components -- AmountStyles.json"
+      "fileName": "components/web-corp/Web _ Corp Components -- AmountStyles.json",
+      "path": "components/web-corp/Web _ Corp Components -- AmountStyles.json"
     },
     {
-      "fileName": "web-corp/Web _ Corp Components -- BackgroundPlate.json",
-      "path": "web-corp/Web _ Corp Components -- BackgroundPlate.json"
+      "fileName": "components/web-corp/Web _ Corp Components -- BackgroundPlate.json",
+      "path": "components/web-corp/Web _ Corp Components -- BackgroundPlate.json"
     },
     {
-      "fileName": "web-corp/Web _ Corp Components -- BannerWrapperMobile [M].json",
-      "path": "web-corp/Web _ Corp Components -- BannerWrapperMobile [M].json"
+      "fileName": "components/web-corp/Web _ Corp Components -- BannerWrapperMobile [M].json",
+      "path": "components/web-corp/Web _ Corp Components -- BannerWrapperMobile [M].json"
     },
     {
-      "fileName": "web-corp/Web _ Corp Components -- BodyHeader.json",
-      "path": "web-corp/Web _ Corp Components -- BodyHeader.json"
+      "fileName": "components/web-corp/Web _ Corp Components -- BodyHeader.json",
+      "path": "components/web-corp/Web _ Corp Components -- BodyHeader.json"
     },
     {
-      "fileName": "web-corp/Web _ Corp Components -- ButtonGroup [D].json",
-      "path": "web-corp/Web _ Corp Components -- ButtonGroup [D].json"
+      "fileName": "components/web-corp/Web _ Corp Components -- ButtonGroup [D].json",
+      "path": "components/web-corp/Web _ Corp Components -- ButtonGroup [D].json"
     },
     {
-      "fileName": "web-corp/Web _ Corp Components -- ButtonStack [M].json",
-      "path": "web-corp/Web _ Corp Components -- ButtonStack [M].json"
+      "fileName": "components/web-corp/Web _ Corp Components -- ButtonStack [M].json",
+      "path": "components/web-corp/Web _ Corp Components -- ButtonStack [M].json"
     },
     {
-      "fileName": "web-corp/Web _ Corp Components -- CardImage.json",
-      "path": "web-corp/Web _ Corp Components -- CardImage.json"
+      "fileName": "components/web-corp/Web _ Corp Components -- CardImage.json",
+      "path": "components/web-corp/Web _ Corp Components -- CardImage.json"
     },
     {
-      "fileName": "web-corp/Web _ Corp Components -- CardSwiperMobile [M].json",
-      "path": "web-corp/Web _ Corp Components -- CardSwiperMobile [M].json"
+      "fileName": "components/web-corp/Web _ Corp Components -- CardSwiperMobile [M].json",
+      "path": "components/web-corp/Web _ Corp Components -- CardSwiperMobile [M].json"
     },
     {
-      "fileName": "web-corp/Web _ Corp Components -- ContentCardWrapper.json",
-      "path": "web-corp/Web _ Corp Components -- ContentCardWrapper.json"
+      "fileName": "components/web-corp/Web _ Corp Components -- ContentCardWrapper.json",
+      "path": "components/web-corp/Web _ Corp Components -- ContentCardWrapper.json"
     },
     {
-      "fileName": "web-corp/Web _ Corp Components -- CorporateAppHeaderMobile [M].json",
-      "path": "web-corp/Web _ Corp Components -- CorporateAppHeaderMobile [M].json"
+      "fileName": "components/web-corp/Web _ Corp Components -- CorporateAppHeaderMobile [M].json",
+      "path": "components/web-corp/Web _ Corp Components -- CorporateAppHeaderMobile [M].json"
     },
     {
-      "fileName": "web-corp/Web _ Corp Components -- CorporateAppHeaderNew [D].json",
-      "path": "web-corp/Web _ Corp Components -- CorporateAppHeaderNew [D].json"
+      "fileName": "components/web-corp/Web _ Corp Components -- CorporateAppHeaderNew [D].json",
+      "path": "components/web-corp/Web _ Corp Components -- CorporateAppHeaderNew [D].json"
     },
     {
-      "fileName": "web-corp/Web _ Corp Components -- CorporatePage.json",
-      "path": "web-corp/Web _ Corp Components -- CorporatePage.json"
+      "fileName": "components/web-corp/Web _ Corp Components -- CorporatePage.json",
+      "path": "components/web-corp/Web _ Corp Components -- CorporatePage.json"
     },
     {
-      "fileName": "web-corp/Web _ Corp Components -- CorporateSystemMessage.json",
-      "path": "web-corp/Web _ Corp Components -- CorporateSystemMessage.json"
+      "fileName": "components/web-corp/Web _ Corp Components -- CorporateSystemMessage.json",
+      "path": "components/web-corp/Web _ Corp Components -- CorporateSystemMessage.json"
     },
     {
-      "fileName": "web-corp/Web _ Corp Components -- CorporateTopbar [D].json",
-      "path": "web-corp/Web _ Corp Components -- CorporateTopbar [D].json"
+      "fileName": "components/web-corp/Web _ Corp Components -- CorporateTopbar [D].json",
+      "path": "components/web-corp/Web _ Corp Components -- CorporateTopbar [D].json"
     },
     {
-      "fileName": "web-corp/Web _ Corp Components -- DataRangePicker [D].json",
-      "path": "web-corp/Web _ Corp Components -- DataRangePicker [D].json"
+      "fileName": "components/web-corp/Web _ Corp Components -- DataRangePicker [D].json",
+      "path": "components/web-corp/Web _ Corp Components -- DataRangePicker [D].json"
     },
     {
-      "fileName": "web-corp/Web _ Corp Components -- FAQ.json",
-      "path": "web-corp/Web _ Corp Components -- FAQ.json"
+      "fileName": "components/web-corp/Web _ Corp Components -- FAQ.json",
+      "path": "components/web-corp/Web _ Corp Components -- FAQ.json"
     },
     {
-      "fileName": "web-corp/Web _ Corp Components -- FileUpload.json",
-      "path": "web-corp/Web _ Corp Components -- FileUpload.json"
+      "fileName": "components/web-corp/Web _ Corp Components -- FileUpload.json",
+      "path": "components/web-corp/Web _ Corp Components -- FileUpload.json"
     },
     {
-      "fileName": "web-corp/Web _ Corp Components -- FilterCompanySelect.json",
-      "path": "web-corp/Web _ Corp Components -- FilterCompanySelect.json"
+      "fileName": "components/web-corp/Web _ Corp Components -- FilterCompanySelect.json",
+      "path": "components/web-corp/Web _ Corp Components -- FilterCompanySelect.json"
     },
     {
-      "fileName": "web-corp/Web _ Corp Components -- FiltersBlock.json",
-      "path": "web-corp/Web _ Corp Components -- FiltersBlock.json"
+      "fileName": "components/web-corp/Web _ Corp Components -- FiltersBlock.json",
+      "path": "components/web-corp/Web _ Corp Components -- FiltersBlock.json"
     },
     {
-      "fileName": "web-corp/Web _ Corp Components -- LandingPage.json",
-      "path": "web-corp/Web _ Corp Components -- LandingPage.json"
+      "fileName": "components/web-corp/Web _ Corp Components -- LandingPage.json",
+      "path": "components/web-corp/Web _ Corp Components -- LandingPage.json"
     },
     {
-      "fileName": "web-corp/Web _ Corp Components -- NavigationCardView.json",
-      "path": "web-corp/Web _ Corp Components -- NavigationCardView.json"
+      "fileName": "components/web-corp/Web _ Corp Components -- NavigationCardView.json",
+      "path": "components/web-corp/Web _ Corp Components -- NavigationCardView.json"
     },
     {
-      "fileName": "web-corp/Web _ Corp Components -- Neurohelper.json",
-      "path": "web-corp/Web _ Corp Components -- Neurohelper.json"
+      "fileName": "components/web-corp/Web _ Corp Components -- Neurohelper.json",
+      "path": "components/web-corp/Web _ Corp Components -- Neurohelper.json"
     },
     {
-      "fileName": "web-corp/Web _ Corp Components -- Onboarding Hint [D].json",
-      "path": "web-corp/Web _ Corp Components -- Onboarding Hint [D].json"
+      "fileName": "components/web-corp/Web _ Corp Components -- Onboarding Hint [D].json",
+      "path": "components/web-corp/Web _ Corp Components -- Onboarding Hint [D].json"
     },
     {
-      "fileName": "web-corp/Web _ Corp Components -- Onboarding Tooltip [D].json",
-      "path": "web-corp/Web _ Corp Components -- Onboarding Tooltip [D].json"
+      "fileName": "components/web-corp/Web _ Corp Components -- Onboarding Tooltip [D].json",
+      "path": "components/web-corp/Web _ Corp Components -- Onboarding Tooltip [D].json"
     },
     {
-      "fileName": "web-corp/Web _ Corp Components -- Pagination [D].json",
-      "path": "web-corp/Web _ Corp Components -- Pagination [D].json"
+      "fileName": "components/web-corp/Web _ Corp Components -- Pagination [D].json",
+      "path": "components/web-corp/Web _ Corp Components -- Pagination [D].json"
     },
     {
-      "fileName": "web-corp/Web _ Corp Components -- PaymentControl [M].json",
-      "path": "web-corp/Web _ Corp Components -- PaymentControl [M].json"
+      "fileName": "components/web-corp/Web _ Corp Components -- PaymentControl [M].json",
+      "path": "components/web-corp/Web _ Corp Components -- PaymentControl [M].json"
     },
     {
-      "fileName": "web-corp/Web _ Corp Components -- PaymentMaskedNumber.json",
-      "path": "web-corp/Web _ Corp Components -- PaymentMaskedNumber.json"
+      "fileName": "components/web-corp/Web _ Corp Components -- PaymentMaskedNumber.json",
+      "path": "components/web-corp/Web _ Corp Components -- PaymentMaskedNumber.json"
     },
     {
-      "fileName": "web-corp/Web _ Corp Components -- ProgressBar.json",
-      "path": "web-corp/Web _ Corp Components -- ProgressBar.json"
+      "fileName": "components/web-corp/Web _ Corp Components -- ProgressBar.json",
+      "path": "components/web-corp/Web _ Corp Components -- ProgressBar.json"
     },
     {
-      "fileName": "web-corp/Web _ Corp Components -- ResultScreen.json",
-      "path": "web-corp/Web _ Corp Components -- ResultScreen.json"
+      "fileName": "components/web-corp/Web _ Corp Components -- ResultScreen.json",
+      "path": "components/web-corp/Web _ Corp Components -- ResultScreen.json"
     },
     {
-      "fileName": "web-corp/Web _ Corp Components -- ScenarioModel ! interruption.json",
-      "path": "web-corp/Web _ Corp Components -- ScenarioModel ! interruption.json"
+      "fileName": "components/web-corp/Web _ Corp Components -- ScenarioModel ! interruption.json",
+      "path": "components/web-corp/Web _ Corp Components -- ScenarioModel ! interruption.json"
     },
     {
-      "fileName": "web-corp/Web _ Corp Components -- Status & Property.json",
-      "path": "web-corp/Web _ Corp Components -- Status & Property.json"
+      "fileName": "components/web-corp/Web _ Corp Components -- Status & Property.json",
+      "path": "components/web-corp/Web _ Corp Components -- Status & Property.json"
     },
     {
-      "fileName": "web-corp/Web _ Corp Components -- Subscription.json",
-      "path": "web-corp/Web _ Corp Components -- Subscription.json"
+      "fileName": "components/web-corp/Web _ Corp Components -- Subscription.json",
+      "path": "components/web-corp/Web _ Corp Components -- Subscription.json"
     },
     {
-      "fileName": "web-corp/Web _ Corp Components -- Table _ Wide [D].json",
-      "path": "web-corp/Web _ Corp Components -- Table _ Wide [D].json"
+      "fileName": "components/web-corp/Web _ Corp Components -- Table _ Wide [D].json",
+      "path": "components/web-corp/Web _ Corp Components -- Table _ Wide [D].json"
     },
     {
-      "fileName": "web-corp/Web _ Corp Components -- TableBulkActions.json",
-      "path": "web-corp/Web _ Corp Components -- TableBulkActions.json"
+      "fileName": "components/web-corp/Web _ Corp Components -- TableBulkActions.json",
+      "path": "components/web-corp/Web _ Corp Components -- TableBulkActions.json"
     },
     {
-      "fileName": "web-corp/Web _ Corp Components -- TableView.json",
-      "path": "web-corp/Web _ Corp Components -- TableView.json"
+      "fileName": "components/web-corp/Web _ Corp Components -- TableView.json",
+      "path": "components/web-corp/Web _ Corp Components -- TableView.json"
     },
     {
-      "fileName": "web-corp/Web _ Corp Components -- Table_ Basic [D].json",
-      "path": "web-corp/Web _ Corp Components -- Table_ Basic [D].json"
+      "fileName": "components/web-corp/Web _ Corp Components -- Table_ Basic [D].json",
+      "path": "components/web-corp/Web _ Corp Components -- Table_ Basic [D].json"
     },
     {
-      "fileName": "web-corp/Web _ Corp Components -- TabsView.json",
-      "path": "web-corp/Web _ Corp Components -- TabsView.json"
+      "fileName": "components/web-corp/Web _ Corp Components -- TabsView.json",
+      "path": "components/web-corp/Web _ Corp Components -- TabsView.json"
     },
     {
-      "fileName": "web-corp/Web _ Corp Components -- TitleView.json",
-      "path": "web-corp/Web _ Corp Components -- TitleView.json"
+      "fileName": "components/web-corp/Web _ Corp Components -- TitleView.json",
+      "path": "components/web-corp/Web _ Corp Components -- TitleView.json"
     },
     {
-      "fileName": "web-corp/Web _ Corp Components -- TitleViewMobile [M].json",
-      "path": "web-corp/Web _ Corp Components -- TitleViewMobile [M].json"
+      "fileName": "components/web-corp/Web _ Corp Components -- TitleViewMobile [M].json",
+      "path": "components/web-corp/Web _ Corp Components -- TitleViewMobile [M].json"
     },
     {
-      "fileName": "web-corp/Web _ Corp Components -- VOC.json",
-      "path": "web-corp/Web _ Corp Components -- VOC.json"
+      "fileName": "components/web-corp/Web _ Corp Components -- VOC.json",
+      "path": "components/web-corp/Web _ Corp Components -- VOC.json"
     },
     {
-      "fileName": "web-corp/Web _ Corp Components -- WidgetPlate [D].json",
-      "path": "web-corp/Web _ Corp Components -- WidgetPlate [D].json"
+      "fileName": "components/web-corp/Web _ Corp Components -- WidgetPlate [D].json",
+      "path": "components/web-corp/Web _ Corp Components -- WidgetPlate [D].json"
     },
     {
-      "fileName": "web-corp/Web _ Corp Components -- Сhat [M].json",
-      "path": "web-corp/Web _ Corp Components -- Сhat [M].json"
+      "fileName": "components/web-corp/Web _ Corp Components -- Сhat [M].json",
+      "path": "components/web-corp/Web _ Corp Components -- Сhat [M].json"
+    }
+    {
+      "fileName": "tokens/001 _ Interface Dynamic Colors -- 001 _ Interface Dynamic Colors.json",
+      "path": "tokens/001 _ Interface Dynamic Colors -- 001 _ Interface Dynamic Colors.json"
+    }
+    {
+      "fileName": "tokens/002 _ Interface Static Colors -- 002 _ Interface Static Colors.json",
+      "path": "tokens/002 _ Interface Static Colors -- 002 _ Interface Static Colors.json"
+    }
+    {
+      "fileName": "tokens/003 _ Decorative Dynamic Colors -- 003 _ Decorative Dynamic Colors.json",
+      "path": "tokens/003 _ Decorative Dynamic Colors -- 003 _ Decorative Dynamic Colors.json"
+    }
+    {
+      "fileName": "tokens/004 _ Qualitative Charts Dynamic Colors -- 004 _ Qualitative Charts Dynamic Colors.json",
+      "path": "tokens/004 _ Qualitative Charts Dynamic Colors -- 004 _ Qualitative Charts Dynamic Colors.json"
+    }
+    {
+      "fileName": "tokens/005 _ Sequential Charts Dynamic Colors -- 005 _ Sequential Charts Dynamic Colors.json",
+      "path": "tokens/005 _ Sequential Charts Dynamic Colors -- 005 _ Sequential Charts Dynamic Colors.json"
+    }
+    {
+      "fileName": "tokens/006 _ Interface Dynamic States Colors -- 006 _ Interface Dynamic States Colors.json",
+      "path": "tokens/006 _ Interface Dynamic States Colors -- 006 _ Interface Dynamic States Colors.json"
+    }
+    {
+      "fileName": "tokens/007 _ Interface Static States Colors -- 007 _ Interface Static States Colors.json",
+      "path": "tokens/007 _ Interface Static States Colors -- 007 _ Interface Static States Colors.json"
+    }
+    {
+      "fileName": "tokens/008 _ Decorative Dynamic States Colors -- 008 _ Decorative Dynamic States Colors.json",
+      "path": "tokens/008 _ Decorative Dynamic States Colors -- 008 _ Decorative Dynamic States Colors.json"
+    }
+    {
+      "fileName": "tokens/009 _ Shadows BlueTint Light -- 009 _ Shadows BlueTint Light.json",
+      "path": "tokens/009 _ Shadows BlueTint Light -- 009 _ Shadows BlueTint Light.json"
+    }
+    {
+      "fileName": "tokens/032 _ PFM Static Colors -- 032 _ PFM Static Colors.json",
+      "path": "tokens/032 _ PFM Static Colors -- 032 _ PFM Static Colors.json"
+    }
+    {
+      "fileName": "tokens/033 _ Promo Colors -- 033 _ Promo Colors.json",
+      "path": "tokens/033 _ Promo Colors -- 033 _ Promo Colors.json"
+    }
+    {
+      "fileName": "tokens/Web _ Core -- Web _ Core.json",
+      "path": "tokens/Web _ Core -- Web _ Core.json"
+    }
+    {
+      "fileName": "tokens/Web _ Corp Components -- Web _ Corp Components.json",
+      "path": "tokens/Web _ Corp Components -- Web _ Corp Components.json"
     }
   ]
 }
